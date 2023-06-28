@@ -138,8 +138,7 @@ console.log(myArray); // Output: [0, 1, 2, 3]
 
 let shiftedElement = myArray.shift(); // Removes the first element and returns it
 console.log(myArray); // Output: [1, 2, 3]
-console.log(shiftedElement); // Output: 0
-Iterating Over Elements: You can use loops like for or `;
+console.log(shiftedElement); // Output: 0`;
 
 export const js_2_6_7 =
 `let myArray = [1, 2, 3, 4, 5];
