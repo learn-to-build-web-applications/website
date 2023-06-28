@@ -99,7 +99,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Open a command prompt or terminal in your project's directory.</li><li>Run the command '<code>npm init</code>' and follow the prompts to initialize a new package.json file.</li><li>The package.json file keeps track of your project's dependencies and other important configuration details.</li></ul></ul>"
+            "text": "<ul><ul><li>Open a command prompt or terminal in your project's directory.</li><li>Run the command `<code>npm init</code>` and follow the prompts to initialize a new package.json file.</li><li>The package.json file keeps track of your project's dependencies and other important configuration details.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -107,7 +107,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Use npm to install any required JavaScript libraries or tools. For example, if you need a library like React, run the command npm '<code>install react</code>'.</li><li>Add the necessary libraries and tools as dependencies in your package.json file.</li></ul></ul>"
+            "text": "<ul><ul><li>Use npm to install any required JavaScript libraries or tools. For example, if you need a library like React, run the command npm `<code>install react</code>`.</li><li>Add the necessary libraries and tools as dependencies in your package.json file.</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -165,7 +165,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>In JavaScript, variables are declared using the '<code>var</code>', '<code>let</code>', or '<code>const</code>' keywords.</li><li>The '<code>var</code>' keyword is used for declaring variables with function scope or global scope. However, it is recommended to use '<code>let</code>' or '<code>const</code>' instead of '<code>var</code>' for better scoping rules and avoiding potential issues.</li><li>The '<code>let</code>' keyword is used for declaring variables with block scope, which means they are only accessible within the block of code where they are defined.</li><li>The '<code>const</code>' keyword is used for declaring variables that hold constant values. Once assigned, a '<code>const</code>' variable cannot be reassigned a new value.</li></ul></ul>"
+            "text": "<ul><ul><li>In JavaScript, variables are declared using the `<code>var</code>`, `<code>let</code>`, or `<code>const</code>` keywords.</li><li>The `<code>var</code>` keyword is used for declaring variables with function scope or global scope. However, it is recommended to use `<code>let</code>` or `<code>const</code>` instead of `<code>var</code>` for better scoping rules and avoiding potential issues.</li><li>The `<code>let</code>` keyword is used for declaring variables with block scope, which means they are only accessible within the block of code where they are defined.</li><li>The `<code>const</code>` keyword is used for declaring variables that hold constant values. Once assigned, a `<code>const</code>` variable cannot be reassigned a new value.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -173,7 +173,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul>JavaScript has several built-in data types, including:<ul><li>Primitive Data Types:</li><ul><li><strong>Number</strong>: Represents numeric values, both integers and floating-point numbers. Example: '<code>let age = 25;</code>'</li><li><strong>String</strong>: Represents sequences of characters. Example: '<code>let name = \"John\";</code>'</li><li><strong>Boolean</strong>': Represents logical values '<code>true</code>' or '<code>false</code>'. Example: '<code>let isActive = true;</code>'</li><li><strong>Null</strong>: Represents the intentional absence of any object value. Example: '<code>let car = null;</code>'</li><li><strong>Undefined</strong>: Represents the uninitialized value of a variable. Example: '<code>let address;</code>'</li><li><strong>Symbol</strong> (Introduced in ECMAScript 2015): Represents unique and immutable values, often used as object property identifiers. Example: '<code>let id = Symbol();</code>'</li></ul><li>Object Data Type:<ul><li><strong>Object</strong>: Represents a collection of key-value pairs. Objects are more complex data types that can hold properties and methods. Example: '<code>let person = { name: \"John\", age: 25 };</code>'</li></ul></li><li>Special Data Type:</li><ul><li><strong>BigInt</strong> (Introduced in ECMAScript 2020): Represents arbitrary-precision integers. Example: '<code>let bigNumber = BigInt(123456789);</code>'</li></ul></ul></ul>"
+            "text": "<ul>JavaScript has several built-in data types, including:<ul><li>Primitive Data Types:</li><ul><li><strong>Number</strong>: Represents numeric values, both integers and floating-point numbers. Example: `<code>let age = 25;</code>`</li><li><strong>String</strong>: Represents sequences of characters. Example: `<code>let name = \"John\";</code>`</li><li><strong>Boolean</strong>': Represents logical values `<code>true</code>` or `<code>false</code>`. Example: `<code>let isActive = true;</code>`</li><li><strong>Null</strong>: Represents the intentional absence of any object value. Example: `<code>let car = null;</code>`</li><li><strong>Undefined</strong>: Represents the uninitialized value of a variable. Example: `<code>let address;</code>`</li><li><strong>Symbol</strong> (Introduced in ECMAScript 2015): Represents unique and immutable values, often used as object property identifiers. Example: `<code>let id = Symbol();</code>`</li></ul><li>Object Data Type:<ul><li><strong>Object</strong>: Represents a collection of key-value pairs. Objects are more complex data types that can hold properties and methods. Example: `<code>let person = { name: \"John\", age: 25 };</code>`</li></ul></li><li>Special Data Type:</li><ul><li><strong>BigInt</strong> (Introduced in ECMAScript 2020): Represents arbitrary-precision integers. Example: `<code>let bigNumber = BigInt(123456789);</code>`</li></ul></ul></ul>"
           },
           {
             "paraid": 6,
@@ -197,7 +197,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ul><ul><li>You can use the '<code>typeof</code>' operator to check the data type of a value. Example: '<code>typeof age; // returns \"number\"</code>'</li></ul></ul>"
+            "text": "<ul><ul><li>You can use the `<code>typeof</code>` operator to check the data type of a value. Example: `<code>typeof age; // returns \"number\"</code>`</li></ul></ul>"
           },
           {
             "paraid": 12,
@@ -219,7 +219,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>The assignment operator ('<code>=</code>') is used to assign a value to a variable. Example: '<code>let x = 5;</code>'</li><li>Additional assignment operators include '<code>+=</code>', '<code>-=</code>', '<code>*=</code>', '<code>/=</code>', and '<code>%=</code>'. These operators perform the corresponding operation and assign the result to the variable. Example: '<code>x += 3;</code>' (equivalent to '<code>x = x + 3;</code>')</li></ul></ul>"
+            "text": "<ul><ul><li>The assignment operator (`<code>=</code>`) is used to assign a value to a variable. Example: `<code>let x = 5;</code>`</li><li>Additional assignment operators include `<code>+=</code>`, `<code>-=</code>`, `<code>*=</code>`, `<code>/=</code>`, and `<code>%=</code>`. These operators perform the corresponding operation and assign the result to the variable. Example: `<code>x += 3;</code>` (equivalent to `<code>x = x + 3;</code>`)</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -227,7 +227,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul>JavaScript supports standard arithmetic operators.<ul><li>Addition ('<code>+</code>'), subtraction ('<code>-</code>'), multiplication ('<code>*</code>'), and division ('<code>/</code>').</li><li>Modulus ('<code>%</code>'), which returns the remainder of a division operation.</li><li>Increment ('<code>++</code>') and decrement ('<code>--</code>') operators for increasing or decreasing a value by 1. Example: '<code>i++;</code>' (equivalent to '<code>i = i + 1;</code>')</li></ul></ul>"
+            "text": "<ul>JavaScript supports standard arithmetic operators.<ul><li>Addition (`<code>+</code>`), subtraction (`<code>-</code>`), multiplication (`<code>*</code>`), and division (`<code>/</code>`).</li><li>Modulus (`<code>%</code>`), which returns the remainder of a division operation.</li><li>Increment (`<code>++</code>`) and decrement (`<code>--</code>`) operators for increasing or decreasing a value by 1. Example: `<code>i++;</code>` (equivalent to `<code>i = i + 1;</code>`)</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -235,7 +235,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul>Comparison operators are used to compare values and return a Boolean ('<code>true</code>' or '<code>false</code>') result.<ul><li>Equal to ('<code>==</code>' or '<code>===</code>'), not equal to ('<code>!=</code>' or '<code>!==</code>').</li><li>Greater than ('<code>></code>'), less than ('<code><</code>), greater than or equal to ('<code>>=</code>'), less than or equal to ('<code><=</code>').</li></ul></ul>"
+            "text": "<ul>Comparison operators are used to compare values and return a Boolean (`<code>true</code>` or `<code>false</code>`) result.<ul><li>Equal to (`<code>==</code>` or `<code>===</code>`), not equal to (`<code>!=</code>` or `<code>!==</code>`).</li><li>Greater than (`<code>></code>`), less than (`<code><</code>`), greater than or equal to (`<code>>=</code>`), less than or equal to (`<code><=</code>`).</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -243,7 +243,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul>Logical operators are used to combine or manipulate Boolean values<ul><li>Logical AND ('<code>&&</code>'), which returns '<code>true</code>' if both operands are '<code>true</code>'.</li><li>Logical OR ('<code>||</code>'), which returns '<code>true</code>' if at least one operand is '<code>true</code>'.</li><li>Logical NOT ('<code>!</code>'), which negates a Boolean value.</li></ul></ul>"
+            "text": "<ul>Logical operators are used to combine or manipulate Boolean values<ul><li>Logical AND (`<code>&&</code>`), which returns `<code>true</code>` if both operands are `<code>true</code>`.</li><li>Logical OR (`<code>||</code>`), which returns `<code>true</code>` if at least one operand is `<code>true</code>`.</li><li>Logical NOT (`<code>!</code>`), which negates a Boolean value.</li></ul></ul>"
           }, 
           {
             "paraid": 10,
@@ -251,7 +251,7 @@
           }, 
           {
             "paraid": 11,
-            "text": "<ul><ul><li>JavaScript provides the + operator to concatenate strings. Example: '<code>\"Hello\" + \"World\"</code>'; returns '<code>\"HelloWorld\"</code>'.</li><li>You can also use the '<code>+=</code>' operator to concatenate strings and assign the result to a variable.</li></ul></ul>"
+            "text": "<ul><ul><li>JavaScript provides the + operator to concatenate strings. Example: `<code>\"Hello\" + \"World\"</code>`; returns `<code>\"HelloWorld\"</code>`.</li><li>You can also use the `<code>+=</code>` operator to concatenate strings and assign the result to a variable.</li></ul></ul>"
           }, 
           {
             "paraid": 12,
@@ -259,7 +259,7 @@
           }, 
           {
             "paraid": 13,
-            "text": "<ul><ul><li>The conditional operator ('<code>condition ? expr1 : expr2</code>') is a shorthand for an '<code>if-else</code>' statement.</li><li>It evaluates the condition and returns '<code>expr1</code>' if the condition is '<code>true</code>', or '<code>expr2</code>' if the condition is '<code>false</code>'.</li></ul></ul>"
+            "text": "<ul><ul><li>The conditional operator (`<code>condition ? expr1 : expr2</code>`) is a shorthand for an `<code>if-else</code>` statement.</li><li>It evaluates the condition and returns `<code>expr1</code>` if the condition is `<code>true</code>`, or `<code>expr2</code>` if the condition is `<code>false</code>`.</li></ul></ul>"
           }, 
           {
             "paraid": 14,
@@ -267,7 +267,7 @@
           }, 
           {
             "paraid": 15,
-            "text": "<ul><ul><li>The '<code>typeof</code>' operator returns a string indicating the data type of a value. Example: '<code>typeof x;</code>' returns '<code>'number'</code>'.</li><li>The '<code>instanceof</code>' operator checks if an object is an instance of a specific class or constructor function.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>typeof</code>` operator returns a string indicating the data type of a value. Example: `<code>typeof x;</code>` returns `<code>'number'</code>`.</li><li>The `<code>instanceof</code>` operator checks if an object is an instance of a specific class or constructor function.</li></ul></ul>"
           }, 
           {
             "paraid": 16,
@@ -275,7 +275,7 @@
           }, 
           {
             "paraid": 17,
-            "text": "<ul><ul><li>The grouping operator ('<code>()</code>') is used to group expressions and control the order of evaluation.</li></ul></ul>"
+            "text": "<ul><ul><li>The grouping operator (`<code>()</code>`) is used to group expressions and control the order of evaluation.</li></ul></ul>"
           }, 
           {
             "paraid": 18,
@@ -283,7 +283,7 @@
           },
           {
             "paraid": 19,
-            "text": "<ul><ul><li>JavaScript also supports bitwise operators ('<code>&</code>', '<code>|</code>', '<code>^</code>', '<code>~</code>', '<code><<</code>', '<code>>></code>', '<code>>>></code>') for manipulating binary representations of numbers. These operators are mainly used in advanced scenarios like low-level programming or working with binary data.</li></ul></ul>"
+            "text": "<ul><ul><li>JavaScript also supports bitwise operators (`<code>&</code>`, `<code>|</code>`, `<code>^</code>`, `<code>~</code>`, `<code><<</code>`, `<code>>></code>`, `<code>>>></code>`) for manipulating binary representations of numbers. These operators are mainly used in advanced scenarios like low-level programming or working with binary data.</li></ul></ul>"
           },
           {
             "paraid": 20,
@@ -305,7 +305,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li><strong>if statement</strong>: Executes a block of code if a specified condition is '<code>true</code>'.</li></ul></ul>"
+            "text": "<ul><ul><li><strong>if statement</strong>: Executes a block of code if a specified condition is `<code>true</code>`.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -531,7 +531,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>Parameters are variables that you define in the function declaration and act as placeholders for values passed during the function call.</li><li>The '<code>return</code>' statement is used to specify the value to be returned from the function.</li></ul></ul>"
+            "text": "<ul><ul><li>Parameters are variables that you define in the function declaration and act as placeholders for values passed during the function call.</li><li>The `<code>return</code>` statement is used to specify the value to be returned from the function.</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -539,7 +539,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>To execute a function, you need to invoke (call) it by using its name followed by parentheses '<code>()</code>'. You can pass arguments inside the parentheses if the function expects parameters.</li><li>Function Call Syntax:</li></ul></ul>"
+            "text": "<ul><ul><li>To execute a function, you need to invoke (call) it by using its name followed by parentheses `<code>()</code>`. You can pass arguments inside the parentheses if the function expects parameters.</li><li>Function Call Syntax:</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -661,7 +661,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "JavaScript arrays are data structures used to store and manipulate collections of elements. An array is an ordered list of values, where each value is assigned a unique index starting from '<code>0</code>'. Arrays can hold any data type, including numbers, strings, objects, or even other arrays."
+            "text": "JavaScript arrays are data structures used to store and manipulate collections of elements. An array is an ordered list of values, where each value is assigned a unique index starting from `<code>0</code>`. Arrays can hold any data type, including numbers, strings, objects, or even other arrays."
           },
           {
             "paraid": 1,
@@ -669,7 +669,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Using the array literal syntax which is a pair of square brackets ('<code>[]</code>').<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Using the array literal syntax which is a pair of square brackets (`<code>[]</code>`).<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -757,7 +757,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Array Length: The '<code>length</code>' property of an array returns the number of elements in the array. It can also be used to add or remove elements by modifying its value.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Array Length: The `<code>length</code>` property of an array returns the number of elements in the array. It can also be used to add or remove elements by modifying its value.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -778,7 +778,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Adding and Removing Elements: Arrays provide methods like '<code>push()</code>', '<code>pop()</code>', '<code>shift()</code>', and '<code>unshift()</code>' to add or remove elements at the end or beginning of the array.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Adding and Removing Elements: Arrays provide methods like `<code>push()</code>`, `<code>pop()</code>`, `<code>shift()</code>`, and `<code>unshift()</code>` to add or remove elements at the end or beginning of the array.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -799,7 +799,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Iterating Over Elements: You can use loops like '<code>for()</code>' or '<code>forEach()</code>' method to iterate over the elements of an array.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Iterating Over Elements: You can use loops like `<code>for()</code>` or `<code>forEach()</code>` method to iterate over the elements of an array.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -838,7 +838,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Use the object literal syntax which is a set of curly braces ('<code>{}</code>').<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Use the object literal syntax which is a set of curly braces (`<code>{}</code>`).<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -884,7 +884,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Accessing Object Properties: You can access the values of object properties using dot notation ('<code>objectName.propertyName</code>') or bracket notation ('<code>objectName['propertyName']</code>').<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Accessing Object Properties: You can access the values of object properties using dot notation (`<code>objectName.propertyName</code>`) or bracket notation (`<code>objectName['propertyName']</code>`).<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -947,7 +947,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Removing Object Properties: You can remove properties from an object using the '<code>delete</code>' keyword.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Removing Object Properties: You can remove properties from an object using the `<code>delete</code>` keyword.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -989,7 +989,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Object Iteration: You can iterate over an object's properties using a '<code>for...in</code>' loop or the '<code>Object.keys()</code>' method.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Object Iteration: You can iterate over an object's properties using a `<code>for...in</code>` loop or the `<code>Object.keys()</code>` method.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -1064,7 +1064,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>The '<code>document</code>' object represents the entire HTML document.</li><li>It provides properties and methods to access and manipulate various aspects of the document, such as elements, attributes, styles, and events.</li><li>Common properties and methods of the '<code>document</code>' object include '<code>getElementById()</code>', '<code>querySelector()</code>', '<code>createElement()</code>', '<code>appendChild()</code>', '<code>removeChild()</code>', and many more.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>document</code>` object represents the entire HTML document.</li><li>It provides properties and methods to access and manipulate various aspects of the document, such as elements, attributes, styles, and events.</li><li>Common properties and methods of the `<code>document</code>` object include `<code>getElementById()</code>`, `<code>querySelector()</code>`, `<code>createElement()</code>`, `<code>appendChild()</code>`, `<code>removeChild()</code>`, and many more.</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -1080,7 +1080,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>You can select elements in the DOM using various methods, such as '<code>getElementById()</code>', '<code>getElementsByClassName()</code>', '<code>getElementsByTagName()</code>', and '<code>querySelector()</code>'.</li><li>These methods allow you to retrieve specific elements based on their IDs, classes, tags, or CSS selectors.</li></ul></ul>"
+            "text": "<ul><ul><li>You can select elements in the DOM using various methods, such as `<code>getElementById()</code>`, `<code>getElementsByClassName()</code>`, `<code>getElementsByTagName()</code>`, and `<code>querySelector()</code>`.</li><li>These methods allow you to retrieve specific elements based on their IDs, classes, tags, or CSS selectors.</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1096,7 +1096,7 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>The DOM provides mechanisms for handling events, such as clicks, mouse movements, and keyboard interactions.</li><li>You can register event handlers on elements to respond to specific events.</li><li>Event handling methods include '<code>addEventListener()</code>, '<code>removeEventListener()</code>', and properties like '<code>onclick</code>', '<code>onload</code>', and more.</li></ul></ul>"
+            "text": "<ul><ul><li>The DOM provides mechanisms for handling events, such as clicks, mouse movements, and keyboard interactions.</li><li>You can register event handlers on elements to respond to specific events.</li><li>Event handling methods include `<code>addEventListener()</code>`, `<code>removeEventListener()</code>`, and properties like `<code>onclick</code>`, `<code>onload</code>`, and more.</li></ul></ul>"
           },
           {
             "paraid": 14,
@@ -1126,7 +1126,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>By ID: Use the '<code>getElementById()</code>' method to select an element based on its unique ID attribute.</li></ul></ul>"
+            "text": "<ul><ul><li>By ID: Use the `<code>getElementById()</code>` method to select an element based on its unique ID attribute.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -1147,7 +1147,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>By Class: Use the '<code>getElementsByClassName()</code>' method to select elements based on their class names. It returns a collection of elements.</li></ul></ul>"
+            "text": "<ul><ul><li>By Class: Use the `<code>getElementsByClassName()</code>` method to select elements based on their class names. It returns a collection of elements.</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -1168,7 +1168,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>By Tag Name: Use the '<code>getElementsByTagName()</code>' method to select elements based on their tag names. It also returns a collection of elements.</li></ul></ul>"
+            "text": "<ul><ul><li>By Tag Name: Use the `<code>getElementsByTagName()</code>` method to select elements based on their tag names. It also returns a collection of elements.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -1189,7 +1189,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>By CSS Selector: Use the '<code>querySelector()</code>' or '<code>querySelectorAll()</code>' method to select elements using CSS selectors. '<code>querySelector()</code>' returns the first matching element, while '<code>querySelectorAll()</code>' returns a collection of all matching elements.</li></ul></ul>"
+            "text": "<ul><ul><li>By CSS Selector: Use the `<code>querySelector()</code>` or `<code>querySelectorAll()</code>` method to select elements using CSS selectors. `<code>querySelector()</code>` returns the first matching element, while `<code>querySelectorAll()</code>` returns a collection of all matching elements.</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1214,7 +1214,7 @@
           },
           {
             "paraid": 12,
-            "text": "<ul><ul><li>Changing Content: You can modify the content of an element using the '<code>innerHTML</code>' property or the '<code>textContent</code>' property.</li></ul></ul>"
+            "text": "<ul><ul><li>Changing Content: You can modify the content of an element using the `<code>innerHTML</code>` property or the `<code>textContent</code>` property.</li></ul></ul>"
           },
           {
             "paraid": 13,
@@ -1235,7 +1235,7 @@
           },
           {
             "paraid": 14,
-            "text": "<ul><ul><li>Modifying Attributes: Use the '<code>getAttribute()</code>' and '<code>setAttribute()</code>' methods to get and set attribute values of an element.</li></ul></ul>"
+            "text": "<ul><ul><li>Modifying Attributes: Use the `<code>getAttribute()</code>` and `<code>setAttribute()</code>` methods to get and set attribute values of an element.</li></ul></ul>"
           },
           {
             "paraid": 15,
@@ -1256,7 +1256,7 @@
           },
           {
             "paraid": 16,
-            "text": "<ul><ul><li>Changing Styles: Use the '<code>style</code>' property to modify the CSS styles of an element.</li></ul></ul>"
+            "text": "<ul><ul><li>Changing Styles: Use the `<code>style</code>` property to modify the CSS styles of an element.</li></ul></ul>"
           },
           {
             "paraid": 17,
@@ -1277,7 +1277,7 @@
           },
           {
             "paraid": 18,
-            "text": "<ul><ul><li>Adding and Removing Classes: Use the '<code>classList</code>' property to add or remove CSS classes from an element.</li></ul></ul>"
+            "text": "<ul><ul><li>Adding and Removing Classes: Use the `<code>classList</code>` property to add or remove CSS classes from an element.</li></ul></ul>"
           },
           {
             "paraid": 19,
@@ -1298,7 +1298,7 @@
           },
           {
             "paraid": 21,
-            "text": "<ul><ul><li>Creating Elements: Use the '<code>createElement()</code>' method to create a new element, and '<code>createTextNode()</code>' to create a text node.</li></ul></ul>"
+            "text": "<ul><ul><li>Creating Elements: Use the `<code>createElement()</code>` method to create a new element, and `<code>createTextNode()</code>` to create a text node.</li></ul></ul>"
           },
           {
             "paraid": 22,
@@ -1319,7 +1319,7 @@
           },
           {
             "paraid": 23,
-            "text": "<ul><ul><li>Appending and Removing Elements: Use the '<code>appendChild()</code>' method to append an element as a child of another element. Use the '<code>removeChild()</code>' method to remove an element.</li></ul></ul>"
+            "text": "<ul><ul><li>Appending and Removing Elements: Use the `<code>appendChild()</code>` method to append an element as a child of another element. Use the `<code>removeChild()</code>` method to remove an element.</li></ul></ul>"
           },
           {
             "paraid": 24,
@@ -1358,7 +1358,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>An event listener is a function that is executed when a specific event occurs on an element.</li><li>You can attach an event listener to an element using the '<code>addEventListener()</code>' method.</li></ul></ul>"
+            "text": "<ul><ul><li>An event listener is a function that is executed when a specific event occurs on an element.</li><li>You can attach an event listener to an element using the `<code>addEventListener()</code>` method.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -1383,7 +1383,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>An event handler function is the function that gets executed when an event occurs.</li><li>It receives an '<code>event</code>' object as a parameter, which provides information about the event and its target element.</li></ul></ul>"
+            "text": "<ul><ul><li>An event handler function is the function that gets executed when an event occurs.</li><li>It receives an `<code>event</code>` object as a parameter, which provides information about the event and its target element.</li></ul></ul>"
           },
           {
             "paraid": 7,
@@ -1408,7 +1408,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Mouse Events: '<code>click</code>', '<code>mouseover</code>', '<code>mouseout</code>', '<code>mousemove</code>', '<code>mousedown</code>', '<code>mouseup</code>', etc.</li><li>Keyboard Events: '<code>keydown</code>', '<code>keyup</code>', '<code>keypress</code>'.</li><li>Form Events: '<code>submit</code>', '<code>input</code>', '<code>change</code>', '<code>focus</code>', '<code>blur</code>'.</li><li>Window Events: '<code>load</code>', '<code>resize</code>', '<code>scroll</code>'.</li><li>And many more. Refer to the MDN documentation for a complete list of events: <a href=\"https://developer.mozilla.org/en-US/docs/Web/Events\">https://developer.mozilla.org/en-US/docs/Web/Events</a></li></ul></ul>"
+            "text": "<ul><ul><li>Mouse Events: `<code>click</code>`, `<code>mouseover</code>`, `<code>mouseout</code>`, `<code>mousemove</code>`, `<code>mousedown</code>`, `<code>mouseup</code>`, etc.</li><li>Keyboard Events: `<code>keydown</code>`, `<code>keyup</code>`, `<code>keypress</code>`.</li><li>Form Events: `<code>submit</code>`, `<code>input</code>`, `<code>change</code>`, `<code>focus</code>`, `<code>blur</code>`.</li><li>Window Events: `<code>load</code>`, `<code>resize</code>`, `<code>scroll</code>`.</li><li>And many more. Refer to the MDN documentation for a complete list of events: <a href=\"https://developer.mozilla.org/en-US/docs/Web/Events\">https://developer.mozilla.org/en-US/docs/Web/Events</a></li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1416,7 +1416,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ul><ul><li>Events in the DOM follow a bubbling or capturing phase, which determines the order in which event handlers are triggered.</li><li>By default, events bubble up from the target element to its parent elements. You can use the '<code>event.stopPropagation()</code>' method to stop the event from further propagation.</li><li>Capturing phase allows you to handle the event on the parent elements before reaching the target element. You can enable capturing by passing a third argument '<code>true</code>' to the '<code>addEventListener()</code>' method.</li></ul></ul>"
+            "text": "<ul><ul><li>Events in the DOM follow a bubbling or capturing phase, which determines the order in which event handlers are triggered.</li><li>By default, events bubble up from the target element to its parent elements. You can use the `<code>event.stopPropagation()</code>` method to stop the event from further propagation.</li><li>Capturing phase allows you to handle the event on the parent elements before reaching the target element. You can enable capturing by passing a third argument `<code>true</code>` to the `<code>addEventListener()</code>` method.</li></ul></ul>"
           },
           {
             "paraid": 12,
@@ -1432,7 +1432,7 @@
           },
           {
             "paraid": 15,
-            "text": "<ul><ul><li>To remove an event listener, you can use the '<code>removeEventListener()</code>' method.</li></ul></ul>"
+            "text": "<ul><ul><li>To remove an event listener, you can use the `<code>removeEventListener()</code>` method.</li></ul></ul>"
           },
           {
             "paraid": 16,
@@ -1496,7 +1496,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Use the '<code>createElement()</code>' method to create new HTML elements programmatically.</li><li>To modify the content of an element, you can use the '<code>innerHTML</code>' property or the '<code>textContent</code>' property.</li><li>Use the '<code>getAttribute()</code>' and '<code>setAttribute()</code>' methods to get and set attribute values of an element.</li><li>To add a newly created element as a child of another element, use the '<code>appendChild()</code>' method.</li><li>Use the '<code>removeChild()</code>' method to remove an element from its parent.</li><li>Use the '<code>style</code>' property to modify the CSS styles of an element.</li><li>Attach event listeners to elements using the '<code>addEventListener()</code>' method to respond to user interactions.</li></ul></ul>"
+            "text": "<ul><ul><li>Use the `<code>createElement()</code>` method to create new HTML elements programmatically.</li><li>To modify the content of an element, you can use the `<code>innerHTML</code>` property or the `<code>textContent</code>` property.</li><li>Use the `<code>getAttribute()</code>` and `<code>setAttribute()</code>` methods to get and set attribute values of an element.</li><li>To add a newly created element as a child of another element, use the `<code>appendChild()</code>` method.</li><li>Use the `<code>removeChild()</code>` method to remove an element from its parent.</li><li>Use the `<code>style</code>` property to modify the CSS styles of an element.</li><li>Attach event listeners to elements using the `<code>addEventListener()</code>` method to respond to user interactions.</li></ul></ul>"
           },
           {
             "paraid": 21,
@@ -1578,7 +1578,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Promises are a more modern approach to asynchronous programming and provide a cleaner and more structured way to handle asynchronous operations.</li><li>A promise represents the eventual completion or failure of an asynchronous operation and provides a mechanism to handle the result or error once available.</li><li>Promises have methods like '<code>.then()</code>' and '<code>.catch()</code>' that allow you to chain operations and handle the success or failure of a promise.</li></ul></ul>"
+            "text": "<ul><ul><li>Promises are a more modern approach to asynchronous programming and provide a cleaner and more structured way to handle asynchronous operations.</li><li>A promise represents the eventual completion or failure of an asynchronous operation and provides a mechanism to handle the result or error once available.</li><li>Promises have methods like `<code>.then()</code>` and `<code>.catch()</code>` that allow you to chain operations and handle the success or failure of a promise.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -1586,7 +1586,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Async/await is a syntax introduced in newer versions of JavaScript (ES2017) that simplifies working with promises.</li><li>The '<code>async</code> keyword is used to define an asynchronous function, and the '<code>await</code>' keyword is used to pause the execution of the function until a promise is resolved.</li><li>Async/await allows you to write asynchronous code in a more synchronous and readable manner, making it easier to handle asynchronous operations and their results.</li></ul></ul>"
+            "text": "<ul><ul><li>Async/await is a syntax introduced in newer versions of JavaScript (ES2017) that simplifies working with promises.</li><li>The `<code>async</code>` keyword is used to define an asynchronous function, and the `<code>await</code>` keyword is used to pause the execution of the function until a promise is resolved.</li><li>Async/await allows you to write asynchronous code in a more synchronous and readable manner, making it easier to handle asynchronous operations and their results.</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1737,7 +1737,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Promises can be created using the '<code>Promise</code>' constructor. The constructor takes a function as an argument, commonly referred to as the \"executor function\".</li><li>The executor function takes two parameters: '<code>resolve</code>' and '<code>reject</code>'. '<code>resolve</code>' is used to fulfill the promise, and '<code>reject</code>' is used to reject the promise.</li><li>Inside the executor function, you perform the asynchronous operation, and once it's complete, you call '<code>resolve</code>' with the result or '<code>reject</code>' with an error.</li></ul></ul>"
+            "text": "<ul><ul><li>Promises can be created using the `<code>Promise</code>` constructor. The constructor takes a function as an argument, commonly referred to as the \"executor function\".</li><li>The executor function takes two parameters: `<code>resolve</code>` and `<code>reject</code>`. `<code>resolve</code>` is used to fulfill the promise, and `<code>reject</code>` is used to reject the promise.</li><li>Inside the executor function, you perform the asynchronous operation, and once it's complete, you call `<code>resolve</code>` with the result or `<code>reject</code>` with an error.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -1766,7 +1766,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Promises can be chained together using the '<code>then()</code>' method, which allows you to specify what should happen after the promise is fulfilled.</li><li>The '<code>then()</code>' method takes a callback function as an argument, which will be executed with the resolved value of the promise.</li><li>Promise chaining allows you to perform sequential operations or transformations on the result of the previous promise.</li></ul></ul>"
+            "text": "<ul><ul><li>Promises can be chained together using the `<code>then()</code>` method, which allows you to specify what should happen after the promise is fulfilled.</li><li>The `<code>then()</code>` method takes a callback function as an argument, which will be executed with the resolved value of the promise.</li><li>Promise chaining allows you to perform sequential operations or transformations on the result of the previous promise.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -1795,15 +1795,15 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Promise rejections can be handled using the '<code>catch()</code>' method, which takes a callback function that will be executed when the promise is rejected.</li><li>The '<code>catch()</code>' method allows you to handle any errors that occur during the asynchronous operation or in any of the preceding '<code>then()</code>' callbacks.</li><li>It's generally recommended to have a '<code>catch()</code>' at the end of the promise chain to handle any unhandled rejections.</li></ul></ul>"
+            "text": "<ul><ul><li>Promise rejections can be handled using the `<code>catch()</code>` method, which takes a callback function that will be executed when the promise is rejected.</li><li>The `<code>catch()</code>` method allows you to handle any errors that occur during the asynchronous operation or in any of the preceding `<code>then()</code>` callbacks.</li><li>It's generally recommended to have a `<code>catch()</code>` at the end of the promise chain to handle any unhandled rejections.</li></ul></ul>"
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"5\"><li>'<code>Promise.all()</code>' and '<code>Promise.race()</code>':</li></ol>"
+            "text": "<ol start=\"5\"><li>`<code>Promise.all()</code>` and `<code>Promise.race()</code>`:</li></ol>"
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>The '<code>Promise.all()</code>' method takes an array of promises and returns a new promise that is fulfilled when all the promises in the array are fulfilled.</li><li>If any of the promises in the array is rejected, the resulting promise from '<code>Promise.all()</code>' will be rejected with the reason of the first rejected promise.</li><li>The '<code>Promise.race()</code>' method takes an array of promises and returns a new promise that is settled with the result or error of the first promise that settles (either fulfills or rejects).</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>Promise.all()</code>` method takes an array of promises and returns a new promise that is fulfilled when all the promises in the array are fulfilled.</li><li>If any of the promises in the array is rejected, the resulting promise from `<code>Promise.all()</code>` will be rejected with the reason of the first rejected promise.</li><li>The `<code>Promise.race()</code>` method takes an array of promises and returns a new promise that is settled with the result or error of the first promise that settles (either fulfills or rejects).</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -1825,7 +1825,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>An async function is a special type of function that allows you to use the '<code>await</code>' keyword inside it.</li><li>The '<code>async</code>' keyword is used to define a function as asynchronous. It can be used in function declarations or function expressions.</li><li>An async function always returns a promise, and the value returned by the function is wrapped in a resolved promise or any error thrown is wrapped in a rejected promise.</li></ul></ul>"
+            "text": "<ul><ul><li>An async function is a special type of function that allows you to use the `<code>await</code>` keyword inside it.</li><li>The `<code>async</code>` keyword is used to define a function as asynchronous. It can be used in function declarations or function expressions.</li><li>An async function always returns a promise, and the value returned by the function is wrapped in a resolved promise or any error thrown is wrapped in a rejected promise.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -1833,7 +1833,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>The '<code>await</code>' keyword can only be used inside an async function.</li><li>It pauses the execution of the async function until the promise is resolved or rejected.</li><li>When '<code>await</code>' is used on a promise, it waits for the promise to settle and returns the resolved value.</li><li>If the promise is rejected, an error is thrown, and you can catch it using a '<code>try...catch</code>' block.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>await</code>` keyword can only be used inside an async function.</li><li>It pauses the execution of the async function until the promise is resolved or rejected.</li><li>When `<code>await</code>` is used on a promise, it waits for the promise to settle and returns the resolved value.</li><li>If the promise is rejected, an error is thrown, and you can catch it using a `<code>try...catch</code>` block.</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -1841,7 +1841,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Async functions can contain multiple await expressions, allowing you to '<code>wait</code>' for promises to resolve in a sequential manner.</li><li>The execution of the async function is paused at each '<code>await</code>' expression, allowing other code to run in the meantime.</li><li>Here's an example of an async function using '<code>await</code>':</li></ul></ul>"
+            "text": "<ul><ul><li>Async functions can contain multiple await expressions, allowing you to `<code>wait</code>` for promises to resolve in a sequential manner.</li><li>The execution of the async function is paused at each `<code>await</code>` expression, allowing other code to run in the meantime.</li><li>Here's an example of an async function using `<code>await</code>`:</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -1866,7 +1866,7 @@
           },
           {
             "paraid": 10,
-            "text": "<ul><ul><li>Errors inside async functions can be handled using '<code>try...catch</code>' blocks.</li><li>If an error occurs during the execution of the '<code>await</code>' expression, the function execution is immediately halted, and the control flows to the '<code>catch</code>' block.</li><li>You can handle the error gracefully, log it, or take appropriate actions.</li></ul></ul>"
+            "text": "<ul><ul><li>Errors inside async functions can be handled using `<code>try...catch</code>` blocks.</li><li>If an error occurs during the execution of the `<code>await</code>` expression, the function execution is immediately halted, and the control flows to the `<code>catch</code>` block.</li><li>You can handle the error gracefully, log it, or take appropriate actions.</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -1874,7 +1874,7 @@
           },
           {
             "paraid": 12,
-            "text": "<ul><ul><li>Async/await can also be used in conjunction with '<code>Promise.all()</code>' to handle multiple asynchronous operations.</li><li>Async/await can also be used in conjunction with '<code>Promise.all()</code>' to handle multiple asynchronous operations.</li><li>By using '<code>await</code>' with '<code>Promise.all()</code>', you can wait for all the promises to resolve before proceeding further.</li></ul></ul>"
+            "text": "<ul><ul><li>Async/await can also be used in conjunction with `<code>Promise.all()</code>` to handle multiple asynchronous operations.</li><li>Async/await can also be used in conjunction with `<code>Promise.all()</code>` to handle multiple asynchronous operations.</li><li>By using `<code>await</code>` with `<code>Promise.all()</code>`, you can wait for all the promises to resolve before proceeding further.</li></ul></ul>"
           },
           {
             "paraid": 13,
@@ -1908,7 +1908,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>The Geolocation API allows you to retrieve the user's current geographical location.</li><li>To use this API, you can call the '<code>navigator.geolocation.getCurrentPosition()</code>' method, which takes a success callback and an error callback as arguments.</li><li>The success callback is invoked with a '<code>Position</code>' object containing the user's coordinates.</li><li>Here's an example of using the Geolocation API:</li></ul></ul>"
+            "text": "<ul><ul><li>The Geolocation API allows you to retrieve the user's current geographical location.</li><li>To use this API, you can call the `<code>navigator.geolocation.getCurrentPosition()</code>` method, which takes a success callback and an error callback as arguments.</li><li>The success callback is invoked with a `<code>Position</code>` object containing the user's coordinates.</li><li>Here's an example of using the Geolocation API:</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -1921,7 +1921,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>The Web Storage API provides a way to store key-value pairs locally in the browser.</li><li>There are two types of web storage available: '<code>localStorage</code>' and '<code>sessionStorage</code>'.</li><li>'<code>localStorage</code>' allows you to store data persistently across browser sessions, while '<code>sessionStorage</code>' stores data for the duration of the session.</li><li>You can use the '<code>setItem()</code>', '<code>getItem()</code>', and '<code>removeItem()</code>' methods to interact with web storage.</li><li>Here's an example of using '<code>localStorage</code>':</li></ul></ul>"
+            "text": "<ul><ul><li>The Web Storage API provides a way to store key-value pairs locally in the browser.</li><li>There are two types of web storage available: `<code>localStorage</code>` and `<code>sessionStorage</code>`.</li><li>`<code>localStorage</code>` allows you to store data persistently across browser sessions, while `<code>sessionStorage</code>` stores data for the duration of the session.</li><li>You can use the `<code>setItem()</code>`, `<code>getItem()</code>`, and `<code>removeItem()</code>` methods to interact with web storage.</li><li>Here's an example of using `<code>localStorage</code>`:</li></ul></ul>"
           },
           {
             "paraid": 7,
@@ -1934,7 +1934,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>The Notifications API allows you to display system notifications to the user.</li><li>To create a notification, you can use the Notification constructor or the '<code>Notification.requestPermission()</code>' method.</li><li>The '<code>Notification</code>' constructor accepts a title and options for customizing the notification.</li><li>The '<code>requestPermission()</code>' method asks the user for permission to show notifications and returns a promise.</li><li>Here's an example of creating a notification:</li></ul></ul>"
+            "text": "<ul><ul><li>The Notifications API allows you to display system notifications to the user.</li><li>To create a notification, you can use the Notification constructor or the `<code>Notification.requestPermission()</code>` method.</li><li>The `<code>Notification</code>` constructor accepts a title and options for customizing the notification.</li><li>The `<code>requestPermission()</code>` method asks the user for permission to show notifications and returns a promise.</li><li>Here's an example of creating a notification:</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1961,7 +1961,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>To make a simple GET request, you can use the '<code>fetch()</code>' function and pass the URL as an argument.</li><li>The '<code>fetch()</code>' function returns a promise that resolves to the '<code>Response</code>' object representing the server's response.</li><li>You can then use the '<code>Response</code>' object to process the response data.</li></ul></ul>"
+            "text": "<ul><ul><li>To make a simple GET request, you can use the `<code>fetch()</code>` function and pass the URL as an argument.</li><li>The `<code>fetch()</code>` function returns a promise that resolves to the `<code>Response</code>` object representing the server's response.</li><li>You can then use the `<code>Response</code>` object to process the response data.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -1974,7 +1974,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>The '<code>fetch()</code>' function accepts a second parameter for additional request options, such as the HTTP method, headers, and request body.</li><li>You can pass an object with these options to customize the request.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>fetch()</code>` function accepts a second parameter for additional request options, such as the HTTP method, headers, and request body.</li><li>You can pass an object with these options to customize the request.</li></ul></ul>"
           },
           {
             "paraid": 7,
@@ -1987,7 +1987,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>The '<code>Response</code>' object provides several methods to access and process the response data.</li><li>You can use methods like '<code>json()</code>' to parse the response as JSON, '<code>text()</code>' to get the response as plain text, and '<code>blob()</code>' to retrieve the response as a Blob object.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>Response</code>` object provides several methods to access and process the response data.</li><li>You can use methods like `<code>json()</code>` to parse the response as JSON, `<code>text()</code>` to get the response as plain text, and `<code>blob()</code>` to retrieve the response as a Blob object.</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -2000,7 +2000,7 @@
           },
           {
             "paraid": 12,
-            "text": "<ul><ul><li>If the server responds with an error status code (e.g., 404, 500), the '<code>fetch()</code>' promise will still resolve successfully.</li><li>You can check the '<code>ok</code>' property of the '<code>Response</code>' object to determine if the request was successful.</li><li>If the request was not successful, you can throw an error or handle it as needed.</li></ul></ul>"
+            "text": "<ul><ul><li>If the server responds with an error status code (e.g., 404, 500), the `<code>fetch()</code>` promise will still resolve successfully.</li><li>You can check the `<code>ok</code>` property of the `<code>Response</code>` object to determine if the request was successful.</li><li>If the request was not successful, you can throw an error or handle it as needed.</li></ul></ul>"
           },
           {
             "paraid": 13,
@@ -2048,7 +2048,7 @@
           },
           {
             "paraid": 8,
-            "text": "<ul><ul><li>Once a response is received from the server, you can handle it by parsing the data and updating the web page dynamically.</li><li>Commonly used response formats include JSON and XML, although JSON is more prevalent due to its simplicity and compatibility with JavaScript.</li><li>You can parse JSON data using the '<code>JSON.parse()</code>' method or XML data using the DOM API or specialized XML parsing libraries.</li></ul></ul>"
+            "text": "<ul><ul><li>Once a response is received from the server, you can handle it by parsing the data and updating the web page dynamically.</li><li>Commonly used response formats include JSON and XML, although JSON is more prevalent due to its simplicity and compatibility with JavaScript.</li><li>You can parse JSON data using the `<code>JSON.parse()</code>` method or XML data using the DOM API or specialized XML parsing libraries.</li></ul></ul>"
           },
           {
             "paraid": 9,
@@ -2167,7 +2167,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>The prototype object is a regular JavaScript object that is used as a blueprint for creating new objects.</li><li>Objects are created by either using the new keyword with a constructor function or using object literals '<code>{}</code>'. The newly created object inherits properties and methods from its prototype.</li></ul></ul>"
+            "text": "<ul><ul><li>The prototype object is a regular JavaScript object that is used as a blueprint for creating new objects.</li><li>Objects are created by either using the new keyword with a constructor function or using object literals `<code>{}</code>`. The newly created object inherits properties and methods from its prototype.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -2183,7 +2183,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Constructor functions are regular functions that are used to create objects.</li><li>When a constructor function is invoked with the '<code>new</code>' keyword, a new object is created, and its '<code>prototype</code>' is set to the function's '<code>prototype</code>' property.</li><li>Properties and methods defined on the constructor function's '<code>prototype</code> property are inherited by the objects created with that constructor.</li></ul></ul>"
+            "text": "<ul><ul><li>Constructor functions are regular functions that are used to create objects.</li><li>When a constructor function is invoked with the `<code>new</code>` keyword, a new object is created, and its `<code>prototype</code>` is set to the function's `<code>prototype</code>` property.</li><li>Properties and methods defined on the constructor function's `<code>prototype</code>` property are inherited by the objects created with that constructor.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -2195,11 +2195,11 @@
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"7\"><li>'<code>Object.create()</code>' and '<code>Object.setPrototypeOf()</code>':</li></ol>"
+            "text": "<ol start=\"7\"><li>`<code>Object.create()</code>` and `<code>Object.setPrototypeOf()</code>`:</li></ol>"
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>The '<code>Object.create()</code>' method allows you to create a new object with a specified prototype object.</li><li>The '<code>Object.setPrototypeOf()</code>' method sets the prototype of an object to another object.</li><li>These methods provide more control over object creation and prototype assignment, allowing for more advanced inheritance patterns.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>Object.create()</code>` method allows you to create a new object with a specified prototype object.</li><li>The `<code>Object.setPrototypeOf()</code>` method sets the prototype of an object to another object.</li><li>These methods provide more control over object creation and prototype assignment, allowing for more advanced inheritance patterns.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -2207,7 +2207,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>ES6 introduced the '<code>class syntax</code>', which provides syntactic sugar for working with prototypes and constructor functions.</li><li>Classes in JavaScript are primarily a syntax simplification and still rely on prototypes under the hood.</li><li>The '<code>class</code>' syntax makes it easier to define constructor functions, prototype methods, and inheritance relationships.</li></ul></ul>"
+            "text": "<ul><ul><li>ES6 introduced the `<code>class syntax</code>`, which provides syntactic sugar for working with prototypes and constructor functions.</li><li>Classes in JavaScript are primarily a syntax simplification and still rely on prototypes under the hood.</li><li>The `<code>class</code>` syntax makes it easier to define constructor functions, prototype methods, and inheritance relationships.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -2245,7 +2245,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Higher-order functions are functions that can take other functions as arguments or return functions as results.</li><li>They enable code abstraction and composition, allowing for the creation of more reusable and modular code.</li><li>Examples of higher-order functions include '<code>map</code>', '<code>filter</code>', and '<code>reduce</code>' in JavaScript.</li></ul></ul>"
+            "text": "<ul><ul><li>Higher-order functions are functions that can take other functions as arguments or return functions as results.</li><li>They enable code abstraction and composition, allowing for the creation of more reusable and modular code.</li><li>Examples of higher-order functions include `<code>map</code>`, `<code>filter</code>`, and `<code>reduce</code>` in JavaScript.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -2261,7 +2261,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Recursion is a technique where a function calls itself to solve a problem by breaking it down into smaller subproblems.</li><li>It is a fundamental concept in functional programming and enables elegant and concise solutions to certain types of problems.</li><li>Recursive functions often replace looping constructs like '<code>for</code>' or '<code>while</code>' in functional programming.</li></ul></ul>"
+            "text": "<ul><ul><li>Recursion is a technique where a function calls itself to solve a problem by breaking it down into smaller subproblems.</li><li>It is a fundamental concept in functional programming and enables elegant and concise solutions to certain types of problems.</li><li>Recursive functions often replace looping constructs like `<code>for</code>` or `<code>while</code>` in functional programming.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -2339,7 +2339,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>ES Modules are the official module system in JavaScript, supported by most modern browsers and Node.js.</li><li>They use the '<code>import</code>' and '<code>export</code>' keywords to declare dependencies and export functionality between modules.</li><li>ES Modules support both named exports and default exports, allowing fine-grained control over exported members.</li></ul></ul>"
+            "text": "<ul><ul><li>ES Modules are the official module system in JavaScript, supported by most modern browsers and Node.js.</li><li>They use the `<code>import</code>` and `<code>export</code>` keywords to declare dependencies and export functionality between modules.</li><li>ES Modules support both named exports and default exports, allowing fine-grained control over exported members.</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -2424,7 +2424,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Console logging is a basic but effective debugging technique.</li><li>Use '<code>console.log()</code>' to output values or messages to the browser's console.</li><li>You can log variables, function outputs, or any other relevant information to track the flow of your code and identify potential issues.</li></ul></ul>"
+            "text": "<ul><ul><li>Console logging is a basic but effective debugging technique.</li><li>Use `<code>console.log()</code>` to output values or messages to the browser's console.</li><li>You can log variables, function outputs, or any other relevant information to track the flow of your code and identify potential issues.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -2534,7 +2534,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ul><ul><li>Network errors occur when there is a problem with network connectivity or when making HTTP requests.</li><li>These errors can include failed requests, timeouts, or CORS (Cross-Origin Resource Sharing) issues.</li><li>To handle network errors, use '<code>try-catch</code>' blocks when making asynchronous requests and handle specific error codes or response statuses gracefully.</li></ul></ul>"
+            "text": "<ul><ul><li>Network errors occur when there is a problem with network connectivity or when making HTTP requests.</li><li>These errors can include failed requests, timeouts, or CORS (Cross-Origin Resource Sharing) issues.</li><li>To handle network errors, use `<code>try-catch</code>` blocks when making asynchronous requests and handle specific error codes or response statuses gracefully.</li></ul></ul>"
           },
           {
             "paraid": 12,
@@ -2542,11 +2542,11 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>JavaScript provides built-in error objects like '<code>Error</code>', '<code>TypeError</code>', '<code>ReferenceError</code>', etc., that can be used to catch and handle specific types of errors.</li><li>You can use the '<code>try-catch</code>' statement to catch errors and handle them gracefully.</li><li>The '<code>catch</code>' block can include code to handle the error, log error messages, or display user-friendly error messages.</li></ul></ul>"
+            "text": "<ul><ul><li>JavaScript provides built-in error objects like `<code>Error</code>`, `<code>TypeError</code>`, `<code>ReferenceError</code>`, etc., that can be used to catch and handle specific types of errors.</li><li>You can use the `<code>try-catch</code>` statement to catch errors and handle them gracefully.</li><li>The `<code>catch</code>` block can include code to handle the error, log error messages, or display user-friendly error messages.</li></ul></ul>"
           },
           {
             "paraid": 14,
-            "text": "Example of handling errors using '<code>try-catch</code>':"
+            "text": "Example of handling errors using `<code>try-catch</code>`:"
           },
           {
             "paraid": 15,
@@ -2596,7 +2596,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Use a dependency management system or module bundler, such as npm (Node Package Manager) or webpack, to manage external dependencies and package your code.</li><li>Define dependencies in a separate file (e.g., '<code>package.json</code>') and use tools to install and manage them automatically.</li><li>This allows you to easily add, update, and remove dependencies without manually managing files.</li></ul></ul>"
+            "text": "<ul><ul><li>Use a dependency management system or module bundler, such as npm (Node Package Manager) or webpack, to manage external dependencies and package your code.</li><li>Define dependencies in a separate file (e.g., `<code>package.json</code>`) and use tools to install and manage them automatically.</li><li>This allows you to easily add, update, and remove dependencies without manually managing files.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -2658,7 +2658,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Use descriptive and meaningful names that accurately represent the purpose or content of the variable or function.</li><li>Favor readability over brevity. Avoid overly abbreviated or cryptic names that can be confusing.</li><li>Use camelCase for variables and functions (e.g., '<code>myVariable</code>', '<code>calculateSum</code>').</li><li>Be consistent with naming conventions throughout your codebase.</li></ul></ul>"
+            "text": "<ul><ul><li>Use descriptive and meaningful names that accurately represent the purpose or content of the variable or function.</li><li>Favor readability over brevity. Avoid overly abbreviated or cryptic names that can be confusing.</li><li>Use camelCase for variables and functions (e.g., `<code>myVariable</code>`, `<code>calculateSum</code>`).</li><li>Be consistent with naming conventions throughout your codebase.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -2666,7 +2666,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>Use uppercase letters and underscores for constants (e.g., '<code>MAX_COUNT</code>', '<code>API_URL</code>').</li><li>Constants should represent values that are not intended to be changed.</li></ul></ul>"
+            "text": "<ul><ul><li>Use uppercase letters and underscores for constants (e.g., `<code>MAX_COUNT</code>`, `<code>API_URL</code>`).</li><li>Constants should represent values that are not intended to be changed.</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -2674,7 +2674,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Use PascalCase (also known as UpperCamelCase) for class names (e.g., '<code>Person</code>', '<code>Car</code>').</li><li>Use descriptive names that accurately represent the class's purpose or functionality.</li></ul></ul>"
+            "text": "<ul><ul><li>Use PascalCase (also known as UpperCamelCase) for class names (e.g., `<code>Person</code>`, `<code>Car</code>`).</li><li>Use descriptive names that accurately represent the class's purpose or functionality.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -2682,7 +2682,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Use camelCase for function and method names.</li><li>Choose verbs or verb phrases that describe the action performed by the function or method (e.g., '<code>getUser</code>', '<code>calculateTotal</code>').</li></ul></ul>"
+            "text": "<ul><ul><li>Use camelCase for function and method names.</li><li>Choose verbs or verb phrases that describe the action performed by the function or method (e.g., `<code>getUser</code>`, `<code>calculateTotal</code>`).</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -2722,7 +2722,7 @@
           },
           {
             "paraid": 19,
-            "text": "<ul><ul><li>Add spaces around operators to improve readability (e.g., '<code>x = 5 + 2;</code>', '<code>if (condition) { ... }</code>').</li><li>However, don't overuse spaces to the extent that it hampers readability.</li></ul></ul>"
+            "text": "<ul><ul><li>Add spaces around operators to improve readability (e.g., `<code>x = 5 + 2;</code>`, `<code>if (condition) { ... }</code>`).</li><li>However, don't overuse spaces to the extent that it hampers readability.</li></ul></ul>"
           },
           {
             "paraid": 20,
@@ -2800,7 +2800,7 @@
           },
           {
             "paraid": 15,
-            "text": "<ul><ul><li>When selecting elements using JavaScript libraries like jQuery, use efficient selectors to minimize the search time.</li><li>Prefer ID selectors ('<code>#id</code>') or class selectors ('<code>.class</code>') over complex CSS selectors.</li></ul></ul>"
+            "text": "<ul><ul><li>When selecting elements using JavaScript libraries like jQuery, use efficient selectors to minimize the search time.</li><li>Prefer ID selectors (`<code>#id</code>`) or class selectors (`<code>.class</code>`) over complex CSS selectors.</li></ul></ul>"
           },
           {
             "paraid": 16,

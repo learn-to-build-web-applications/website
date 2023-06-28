@@ -58,7 +58,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Element selector: '<code>p { ... }</code>'</li><li>Class selector: '<code>.my-class { ... }</code>'</li><li>ID selector: '<code>#my-id { ... }</code>'</li><li>Attribute selector: '<code>input[type=\"text\"] { ... }</code>'</li></ul></ul>"
+            "text": "<ul><ul><li>Element selector: `<code>p { ... }</code>`</li><li>Class selector: `<code>.my-class { ... }</code>`</li><li>ID selector: `<code>#my-id { ... }</code>`</li><li>Attribute selector: `<code>input[type=\"text\"] { ... }</code>`</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -83,7 +83,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ol start=\"3\"><li>Properties and Values: CSS provides a wide range of properties and values to control various aspects of element styling. Properties specify what aspect of an element to modify, such as '<code>color</code>', '<code>font-size</code>', '<code>margin</code>', etc. Values determine the specific settings for a property, such as '<code>red</code>' for color, '<code>12px</code>' for font-size, or '<code>10px 20px</code>' for margin. For example:</li><ol>"
+            "text": "<ol start=\"3\"><li>Properties and Values: CSS provides a wide range of properties and values to control various aspects of element styling. Properties specify what aspect of an element to modify, such as `<code>color</code>`, `<code>font-size</code>`, `<code>margin</code>`, etc. Values determine the specific settings for a property, such as `<code>red</code>` for color, `<code>12px</code>` for font-size, or `<code>10px 20px</code>` for margin. For example:</li><ol>"
           },
           {
             "paraid": 7,
@@ -104,7 +104,7 @@
           },
           {
             "paraid": 8,
-            "text": "<ol start=\"4\"><li>Comments: CSS allows for comments within the code to provide explanations or notes. Comments are enclosed within '<code>/*</code>' and '<code>*/</code>'. They are not interpreted by the browser and serve as documentation for developers. For example:</li></ol>"
+            "text": "<ol start=\"4\"><li>Comments: CSS allows for comments within the code to provide explanations or notes. Comments are enclosed within `<code>/*</code>` and `<code>*/</code>`. They are not interpreted by the browser and serve as documentation for developers. For example:</li></ol>"
           },
           {
             "paraid": 9,
@@ -129,7 +129,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ol start=\"6\"><li>CSS Rule Sets: A CSS rule set combines a selector and one or more declarations to define how the selected elements should be styled. Multiple rule sets can be grouped together within a CSS file or embedded directly into an HTML document using the '<code>&lt;style&gt;</code>' tag.</li></ol>"
+            "text": "<ol start=\"6\"><li>CSS Rule Sets: A CSS rule set combines a selector and one or more declarations to define how the selected elements should be styled. Multiple rule sets can be grouped together within a CSS file or embedded directly into an HTML document using the `<code>&lt;style&gt;</code>` tag.</li></ol>"
           },
           {
             "paraid": 12,
@@ -168,7 +168,7 @@
           },
           {
             "paraid": 2,
-            "text": "<ol><li>External CSS file: The most widely used method is to create a separate CSS file with a .css extension and link it to the HTML document using the '<code>&lt;link&gt;</code>' tag. This method allows for better code organization and reusability.</li></ol>"
+            "text": "<ol><li>External CSS file: The most widely used method is to create a separate CSS file with a .css extension and link it to the HTML document using the `<code>&lt;link&gt;</code>` tag. This method allows for better code organization and reusability.</li></ol>"
           },
           {
             "paraid": 3,
@@ -189,11 +189,11 @@
           },
           {
             "paraid": 4,
-            "text": "<ol>In this example, the href attribute specifies the path to the external CSS file (styles.css). The '<code>&lt;link&gt;</code>' tag is typically placed within the '<code>&lt;head&gt;</code>' section of the HTML document.</ol>"
+            "text": "<ol>In this example, the href attribute specifies the path to the external CSS file (styles.css). The `<code>&lt;link&gt;</code>` tag is typically placed within the `<code>&lt;head&gt;</code>` section of the HTML document.</ol>"
           },
           {
             "paraid": 5,
-            "text": "<ol start=\"2\"><li>Internal CSS: CSS styles can be directly embedded within an HTML document using the '<code>&lt;style&gt;</code>' tag. This method is useful for adding specific styles to a single HTML file.</li><ol>"
+            "text": "<ol start=\"2\"><li>Internal CSS: CSS styles can be directly embedded within an HTML document using the `<code>&lt;style&gt;</code>` tag. This method is useful for adding specific styles to a single HTML file.</li><ol>"
           },
           {
             "paraid": 6,
@@ -214,7 +214,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ol>The CSS rules are placed between the opening and closing '<code>&lt;style&gt;</code>' tags, typically within the '<code>&lt;head&gt;</code>' section of the HTML document.</ol>"
+            "text": "<ol>The CSS rules are placed between the opening and closing `<code>&lt;style&gt;</code>` tags, typically within the `<code>&lt;head&gt;</code>` section of the HTML document.</ol>"
           },
           {
             "paraid": 8,
@@ -239,7 +239,7 @@
           },
           {
             "paraid": 10,
-            "text": "<ol>In this example, the styles are defined within the style attribute of the '<code>&lt;h1&gt;</code>' element.</ol>"
+            "text": "<ol>In this example, the styles are defined within the style attribute of the `<code>&lt;h1&gt;</code>` element.</ol>"
           },
           {
             "paraid": 11,
@@ -268,7 +268,7 @@
           },
           {
             "paraid": 2,
-            "text": "The syntax for an element selector is simply the element name itself. For example, to select all '<code>&lt;p&gt;</code>' elements in an HTML document, you would use the following CSS rule:"
+            "text": "The syntax for an element selector is simply the element name itself. For example, to select all `<code>&lt;p&gt;</code>` elements in an HTML document, you would use the following CSS rule:"
           },
           {
             "paraid": 3,
@@ -289,7 +289,7 @@
           },
           {
             "paraid": 4,
-            "text": "In this example, the '<code>p</code>' selector targets all '<code>&lt;p&gt;</code>' elements and applies the specified styles within the curly braces."
+            "text": "In this example, the `<code>p</code>` selector targets all `<code>&lt;p&gt;</code>` elements and applies the specified styles within the curly braces."
           },
           {
             "paraid": 5,
@@ -357,7 +357,7 @@
           },
           {
             "paraid": 4,
-            "text": "In this example, the '<code>.my-class</code>' selector targets all elements that have the class attribute set to \"my-class\" and applies the specified styles within the curly braces."
+            "text": "In this example, the `<code>.my-class</code>` selector targets all elements that have the class attribute set to \"my-class\" and applies the specified styles within the curly braces."
           },
           {
             "paraid": 5,
@@ -467,7 +467,7 @@
           },
           {
             "paraid": 4,
-            "text": "In this example, the '<code>#my-id</code>' selector targets the element that has the ID attribute set to \"my-id\" and applies the specified styles within the curly braces."
+            "text": "In this example, the `<code>#my-id</code>` selector targets the element that has the ID attribute set to \"my-id\" and applies the specified styles within the curly braces."
           },
           {
             "paraid": 5,
@@ -531,7 +531,7 @@
           },
           {
             "paraid": 2,
-            "text": "<ol><li>Basic Attribute Selector: The basic attribute selector targets elements that have a specific attribute present, regardless of its value. The syntax is '<code>[attribute]</code>'. For example, to select all elements with the attribute '<code>data-custom</code>', you would use:</li></ol>"
+            "text": "<ol><li>Basic Attribute Selector: The basic attribute selector targets elements that have a specific attribute present, regardless of its value. The syntax is `<code>[attribute]</code>`. For example, to select all elements with the attribute `<code>data-custom</code>`, you would use:</li></ol>"
           },
           {
             "paraid": 3,
@@ -552,7 +552,7 @@
           },
           {
             "paraid": 4,
-            "text": "<ol start=\"2\"><li>Attribute Selector with Value: Attribute selectors can be used to target elements with a specific attribute value. The syntax is '<code>[attribute=value]</code>'. For example, to select all '<code>&lt;input&gt;</code>' elements with the attribute '<code>type</code>' set to '<code>\"text\"</code>', you would use:</li></ol>"
+            "text": "<ol start=\"2\"><li>Attribute Selector with Value: Attribute selectors can be used to target elements with a specific attribute value. The syntax is `<code>[attribute=value]</code>`. For example, to select all `<code>&lt;input&gt;</code>` elements with the attribute `<code>type</code>` set to `<code>\"text\"</code>`, you would use:</li></ol>"
           },
           {
             "paraid": 5,
@@ -573,11 +573,11 @@
           },
           {
             "paraid": 6,
-            "text": "<ol>This selector will apply styles to all '<code>&lt;input&gt;</code>' elements with the attribute '<code>type</code>' set to '<code>\"text\"</code>'.</ol>"
+            "text": "<ol>This selector will apply styles to all `<code>&lt;input&gt;</code>` elements with the attribute `<code>type</code>` set to `<code>\"text\"</code>`.</ol>"
           },
           {
             "paraid": 7,
-            "text": "<ol start=\"3\"><li>Attribute Selector with Partial Value: Attribute selectors can also match elements whose attribute values contain a specific substring. This is useful when targeting elements with attributes that have dynamic or varying values. The syntax is '<code>[attribute*=value]</code>'. For example, to select all '<code>&lt;a&gt;</code>' elements with the '<code>href</code>' attribute containing the substring '<code>\"example.com\"</code>', you would use:</li></ol>"
+            "text": "<ol start=\"3\"><li>Attribute Selector with Partial Value: Attribute selectors can also match elements whose attribute values contain a specific substring. This is useful when targeting elements with attributes that have dynamic or varying values. The syntax is `<code>[attribute*=value]</code>`. For example, to select all `<code>&lt;a&gt;</code>` elements with the `<code>href</code>` attribute containing the substring `<code>\"example.com\"</code>`, you would use:</li></ol>"
           },
           {
             "paraid": 8,
@@ -598,11 +598,11 @@
           },
           {
             "paraid": 9,
-            "text": "<ol>This selector will match '<code>&lt;a&gt;</code>' elements whose '<code>href</code>' attribute contains the substring '<code>\"example.com\"</code>' anywhere within its value.</ol>"
+            "text": "<ol>This selector will match `<code>&lt;a&gt;</code>` elements whose `<code>href</code>` attribute contains the substring `<code>\"example.com\"</code>` anywhere within its value.</ol>"
           },
           {
             "paraid": 10,
-            "text": "<ol start=\"4\"><li>Attribute Selector with Prefix Value: Attribute selectors can target elements whose attribute values start with a specific prefix. The syntax is '<code>[attribute^=value]</code>'. For example, to select all '<code>&lt;img&gt;</code>' elements with the '<code>src</code>' attribute starting with '<code>\"images/\"</code>', you would use:</li></ol>"
+            "text": "<ol start=\"4\"><li>Attribute Selector with Prefix Value: Attribute selectors can target elements whose attribute values start with a specific prefix. The syntax is `<code>[attribute^=value]</code>`. For example, to select all `<code>&lt;img&gt;</code>` elements with the `<code>src</code>` attribute starting with `<code>\"images/\"</code>`, you would use:</li></ol>"
           },
           {
             "paraid": 11,
@@ -623,11 +623,11 @@
           },
           {
             "paraid": 12,
-            "text": "<ol>This selector will apply styles to '<code>&lt;img&gt;</code>' elements whose '<code>src</code>' attribute starts with the prefix '<code>\"images/\"</code>'.</ol>"
+            "text": "<ol>This selector will apply styles to `<code>&lt;img&gt;</code>` elements whose `<code>src</code>` attribute starts with the prefix `<code>\"images/\"</code>`.</ol>"
           },
           {
             "paraid": 13,
-            "text": "<ol start=\"5\"><li>Attribute Selector with Suffix Value: Attribute selectors can target elements whose attribute values end with a specific suffix. The syntax is '<code>[attribute$=value]</code>'. For example, to select all '<code>&lt;a&gt;</code>' elements with the href attribute ending with '<code>\".pdf\"</code>', you would use:</li></ol>"
+            "text": "<ol start=\"5\"><li>Attribute Selector with Suffix Value: Attribute selectors can target elements whose attribute values end with a specific suffix. The syntax is `<code>[attribute$=value]</code>`. For example, to select all `<code>&lt;a&gt;</code>` elements with the href attribute ending with `<code>\".pdf\"</code>`, you would use:</li></ol>"
           },
           {
             "paraid": 14,
@@ -648,7 +648,7 @@
           },
           {
             "paraid": 15,
-            "text": "<ol>This selector will match '<code>&lt;a&gt;</code>' elements whose href attribute ends with '<code>\".pdf\"</code>'.</ol>"
+            "text": "<ol>This selector will match `<code>&lt;a&gt;</code>` elements whose href attribute ends with `<code>\".pdf\"</code>`.</ol>"
           },
           {
             "paraid": 16,
@@ -670,7 +670,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>'<code>:hover</code>': Targets elements when the user hovers over them with the cursor.</li><li>'<code>:active</code>': Targets elements when they are being clicked or activated.</li><li>'<code>:focus</code>': Targets elements when they have focus (e.g., input fields).</li><li>'<code>:visited</code>': Targets links that have been visited.</li><li>'<code>:first-child</code>': Targets the first child element of its parent.</li><li>'<code>:last-child</code>': Targets the last child element of its parent.</li><li>'<code>:nth-child(n)</code>': Targets elements that are the nth child of their parent.</li></ul></ul>"
+            "text": "<ul><ul><li>`<code>:hover</code>`: Targets elements when the user hovers over them with the cursor.</li><li>`<code>:active</code>`: Targets elements when they are being clicked or activated.</li><li>`<code>:focus</code>`: Targets elements when they have focus (e.g., input fields).</li><li>`<code>:visited</code>`: Targets links that have been visited.</li><li>`<code>:first-child</code>`: Targets the first child element of its parent.</li><li>`<code>:last-child</code>`: Targets the last child element of its parent.</li><li>`<code>:nth-child(n)</code>`: Targets elements that are the nth child of their parent.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -699,7 +699,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>'<code>::before</code>': Inserts content before the element's content.</li><li>'<code>::after</code>': Inserts content after the element's content.</li><li>'<code>::first-line</code>': Targets the first line of text within an element.</li><li>'<code>::first-letter</code>': Targets the first letter of text within an element.</li><li>'<code>::selection</code>': Targets the portion of text selected by the user.</li></ul></ul>"
+            "text": "<ul><ul><li>`<code>::before</code>`: Inserts content before the element's content.</li><li>`<code>::after</code>`: Inserts content after the element's content.</li><li>`<code>::first-line</code>`: Targets the first line of text within an element.</li><li>`<code>::first-letter</code>`: Targets the first letter of text within an element.</li><li>`<code>::selection</code>`: Targets the portion of text selected by the user.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -745,7 +745,7 @@
           },
           {
             "paraid": 2,
-            "text": "<ol><li>Content: The content area of an element holds the actual content, such as text, images, or other HTML elements. It is defined by the element's width and height properties.</li><li>Padding: The padding is the space between the content and the element's border. It provides breathing room around the content and can be set using the '<code>padding</code>' property. Padding does not include background color or borders.</li><li>Border: The border is a line that surrounds the padding and content area. It can be customized with different styles, colors, and widths using the '<code>border</code>' property. The border separates the element from its neighboring elements.</li><li>Margin: The margin is the space outside the element's border. It creates the gap between adjacent elements. The margin can be set using the '<code>margin</code>' property.</li></ol>"
+            "text": "<ol><li>Content: The content area of an element holds the actual content, such as text, images, or other HTML elements. It is defined by the element's width and height properties.</li><li>Padding: The padding is the space between the content and the element's border. It provides breathing room around the content and can be set using the `<code>padding</code>` property. Padding does not include background color or borders.</li><li>Border: The border is a line that surrounds the padding and content area. It can be customized with different styles, colors, and widths using the `<code>border</code>` property. The border separates the element from its neighboring elements.</li><li>Margin: The margin is the space outside the element's border. It creates the gap between adjacent elements. The margin can be set using the `<code>margin</code>` property.</li></ol>"
           },
           {
             "paraid": 3,
@@ -784,7 +784,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>The '<code>margin</code>' property defines the space outside an element's border. It creates a gap between the element and its neighboring elements.</li><li>It accepts values such as pixels ('<code>px</code>'), percentages ('<code>%</code>'), ems ('<code>em</code>'), or other CSS units. You can specify margin values for individual sides (top, right, bottom, left) or use shorthand to set them simultaneously.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>margin</code>` property defines the space outside an element's border. It creates a gap between the element and its neighboring elements.</li><li>It accepts values such as pixels (`<code>px</code>`), percentages (`<code>%</code>`), ems (`<code>em</code>`), or other CSS units. You can specify margin values for individual sides (top, right, bottom, left) or use shorthand to set them simultaneously.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -809,7 +809,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>The '<code>padding</code>' property defines the space between an element's content and its border. It provides internal space within the element.</li><li>Like '<code>margin</code>', it accepts values such as pixels, percentages, ems, or other CSS units. You can specify '<code>padding</code>' values for individual sides or use shorthand.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>padding</code>` property defines the space between an element's content and its border. It provides internal space within the element.</li><li>Like `<code>margin</code>`, it accepts values such as pixels, percentages, ems, or other CSS units. You can specify `<code>padding</code>` values for individual sides or use shorthand.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 7,
@@ -834,7 +834,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>The '<code>border</code>' property defines the style, color, and width of an element's border.</li><li>It consists of multiple sub-properties, including '<code>border-width</code>', <code>border-style</code>', and '<code>border-color</code>', which can be specified individually or using shorthand.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>border</code>` property defines the style, color, and width of an element's border.</li><li>It consists of multiple sub-properties, including `<code>border-width</code>`, `<code>border-style</code>`, and `<code>border-color</code>`, which can be specified individually or using shorthand.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -865,15 +865,15 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "<strong>Box Sizing</strong>: The '<code>box-sizing</code>' property in CSS determines how the total width and height of an element are calculated, taking into account the content, padding, and border. It has two possible values:"
+            "text": "<strong>Box Sizing</strong>: The `<code>box-sizing</code>` property in CSS determines how the total width and height of an element are calculated, taking into account the content, padding, and border. It has two possible values:"
           },
           {
             "paraid": 2,
-            "text": "<ol><li>'<code>content-box</code>' (default): This value includes only the content within the specified width and height. The padding and border are added to the specified width and height, increasing the overall dimensions of the element.</li><li>'<code>border-box</code>: This value includes the content, padding, and border within the specified width and height. The padding and border are subtracted from the specified width and height, so the overall dimensions of the element remain constant.</li></ol>"
+            "text": "<ol><li>`<code>content-box</code>` (default): This value includes only the content within the specified width and height. The padding and border are added to the specified width and height, increasing the overall dimensions of the element.</li><li>`<code>border-box</code>`: This value includes the content, padding, and border within the specified width and height. The padding and border are subtracted from the specified width and height, so the overall dimensions of the element remain constant.</li></ol>"
           },
           {
             "paraid": 3,
-            "text": "<ol>Here's an example of using the '<code>box-sizing</code>' property:<ol>"
+            "text": "<ol>Here's an example of using the `<code>box-sizing</code>` property:<ol>"
           },
           {
             "paraid": 4,
@@ -894,7 +894,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ol>In this example, the '<code>box-sizing</code>' property is set to border-box, so the specified width of '<code>200px</code>' includes the padding and border. The content area will be adjusted to fit within the remaining space after accounting for padding and border.<ol>"
+            "text": "<ol>In this example, the `<code>box-sizing</code>` property is set to border-box, so the specified width of `<code>200px</code>` includes the padding and border. The content area will be adjusted to fit within the remaining space after accounting for padding and border.<ol>"
           },
           {
             "paraid": 6,
@@ -902,15 +902,15 @@
           },
           {
             "paraid": 7,
-            "text": "To control the behavior of content overflow, the '<code>overflow</code>' property is used. It has several possible values:"
+            "text": "To control the behavior of content overflow, the `<code>overflow</code>` property is used. It has several possible values:"
           },
           {
             "paraid": 8,
-            "text": "<ol><li>'<code>visible</code>' (default): The content overflows outside the element's boundaries, potentially overlapping other elements.</li><li>'<code>hidden</code>': Any content that exceeds the element's dimensions is hidden and clipped.</li><li>'<code>scroll</code>': The content overflows, and scrollbars are added to allow users to scroll and view the hidden content.</li><li>'<code>auto</code>': Scrollbars are added only when necessary. If the content fits within the element's dimensions, no scrollbars are displayed.</li></ol>"
+            "text": "<ol><li>`<code>visible</code>` (default): The content overflows outside the element's boundaries, potentially overlapping other elements.</li><li>`<code>hidden</code>`: Any content that exceeds the element's dimensions is hidden and clipped.</li><li>`<code>scroll</code>`: The content overflows, and scrollbars are added to allow users to scroll and view the hidden content.</li><li>`<code>auto</code>`: Scrollbars are added only when necessary. If the content fits within the element's dimensions, no scrollbars are displayed.</li></ol>"
           },
           {
             "paraid": 9,
-            "text": "<ol>Here's an example of using the '<code>overflow</code>' property:</ol>"
+            "text": "<ol>Here's an example of using the `<code>overflow</code>` property:</ol>"
           },
           {
             "paraid": 10,
@@ -931,11 +931,11 @@
           },
           {
             "paraid": 11,
-            "text": "<ol>In this example, the '<code>overflow</code>' property is set to '<code>scroll</code>', which adds scrollbars to the element if the content exceeds its dimensions.</ol>"
+            "text": "<ol>In this example, the `<code>overflow</code>` property is set to `<code>scroll</code>`, which adds scrollbars to the element if the content exceeds its dimensions.</ol>"
           },
           {
             "paraid": 12,
-            "text": "By using the '<code>box-sizing</code>' property and controlling the content overflow, you can have more control over how elements are sized and handle overflowing content within your web page layouts."
+            "text": "By using the `<code>box-sizing</code>` property and controlling the content overflow, you can have more control over how elements are sized and handle overflowing content within your web page layouts."
           }
         ]
       },
@@ -953,7 +953,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Set the '<code>width</code>' and '<code>height</code>' properties to control the size of an element's content area.</li><li>Use the '<code>box-sizing</code>' property with the value of '<code>border-box</code>' to include padding and border within the specified width and height.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Set the `<code>width</code>` and `<code>height</code>` properties to control the size of an element's content area.</li><li>Use the `<code>box-sizing</code>` property with the value of `<code>border-box</code>` to include padding and border within the specified width and height.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -978,7 +978,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>Use the '<code>margin</code>' property to create space outside the element's border and create gaps between elements.</li><li>Utilize the '<code>padding</code>' property to add space between the element's content and its border.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Use the `<code>margin</code>` property to create space outside the element's border and create gaps between elements.</li><li>Utilize the `<code>padding</code>` property to add space between the element's content and its border.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 7,
@@ -1003,7 +1003,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Apply a fixed width or a percentage width to elements within a container to create equal-sized columns.</li><li>Use '<code>box-sizing: border-box</code>' to include padding and border within the specified width.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Apply a fixed width or a percentage width to elements within a container to create equal-sized columns.</li><li>Use `<code>box-sizing: border-box</code>` to include padding and border within the specified width.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1028,7 +1028,7 @@
           },
           {
             "paraid": 12,
-            "text": "<ul><ul><li>Use the '<code>overflow</code>' property to control how content that exceeds an element's dimensions is handled.</li><li>Choose values such as '<code>hidden</code>', '<code>scroll</code>', or '<code>auto</code>' to hide, add scrollbars, or automatically display scrollbars based on the content.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Use the `<code>overflow</code>` property to control how content that exceeds an element's dimensions is handled.</li><li>Choose values such as `<code>hidden</code>`, `<code>scroll</code>`, or `<code>auto</code>` to hide, add scrollbars, or automatically display scrollbars based on the content.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 13,
@@ -1053,7 +1053,7 @@
           },
           {
             "paraid": 15,
-            "text": "<ul><ul><li>Set the left and right margins to '<code>auto</code>' and specify a width to horizontally center a block-level element.</li><li>Use the '<code>margin</code>' property with '<code>auto</code>' on all sides to center an inline-level element.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Set the left and right margins to `<code>auto</code>` and specify a width to horizontally center a block-level element.</li><li>Use the `<code>margin</code>` property with `<code>auto</code>` on all sides to center an inline-level element.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 16,
@@ -1099,7 +1099,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Elements are positioned according to the normal flow of the document.</li><li>The '<code>top</code>', '<code>right</code>', '<code>bottom</code>', and '<code>left</code>' properties have no effect.</li></ul></ul>"
+            "text": "<ul><ul><li>Elements are positioned according to the normal flow of the document.</li><li>The `<code>top</code>`, `<code>right</code>`, `<code>bottom</code>`, and `<code>left</code>` properties have no effect.</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -1107,7 +1107,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>Elements are positioned relative to their normal position in the document flow.</li><li>The '<code>top</code>', '<code>right</code>', '<code>bottom</code>', and '<code>left</code>' properties can be used to adjust the element's position.</li><li>Other elements are not affected by the relative position of the element.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>Elements are positioned relative to their normal position in the document flow.</li><li>The `<code>top</code>`, `<code>right</code>`, `<code>bottom</code>`, and `<code>left</code>` properties can be used to adjust the element's position.</li><li>Other elements are not affected by the relative position of the element.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 6,
@@ -1132,7 +1132,7 @@
           },
           {
             "paraid": 8,
-            "text": "<ul><ul><li>Elements are positioned relative to their nearest positioned ancestor (an ancestor with a position value other than static) or the initial containing block.</li><li>The '<code>top</code>', '<code>right</code>', '<code>bottom</code>', and '<code>left</code>' properties are used to specify the element's position.</li><li>Absolute positioned elements are removed from the normal document flow, and other elements can overlap them.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>Elements are positioned relative to their nearest positioned ancestor (an ancestor with a position value other than static) or the initial containing block.</li><li>The `<code>top</code>`, `<code>right</code>`, `<code>bottom</code>`, and `<code>left</code>` properties are used to specify the element's position.</li><li>Absolute positioned elements are removed from the normal document flow, and other elements can overlap them.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 9,
@@ -1157,7 +1157,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ul><ul><li>Elements are positioned relative to the browser window or the viewport, regardless of scrolling.</li><li>The '<code>top</code>', '<code>right</code>', '<code>bottom</code>', and '<code>left</code>' properties are used to specify the element's position.</li><li>Fixed positioned elements remain fixed even when the page is scrolled.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>Elements are positioned relative to the browser window or the viewport, regardless of scrolling.</li><li>The `<code>top</code>`, `<code>right</code>`, `<code>bottom</code>`, and `<code>left</code>` properties are used to specify the element's position.</li><li>Fixed positioned elements remain fixed even when the page is scrolled.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 12,
@@ -1182,7 +1182,7 @@
           },
           {
             "paraid": 14,
-            "text": "<ul><ul><li>Elements are positioned based on the user's scroll position. They act as relatively positioned elements until they reach a specified threshold, after which they become fixed positioned elements.</li><li>The '<code>top</code>', '<code>right</code>', '<code>bottom</code>', and '<code>left</code>' properties are used to specify the element's position.</li><li>Sticky positioned elements \"stick\" to a particular position as the user scrolls.</li><br/>Example:</ul><ul/>"
+            "text": "<ul><ul><li>Elements are positioned based on the user's scroll position. They act as relatively positioned elements until they reach a specified threshold, after which they become fixed positioned elements.</li><li>The `<code>top</code>`, `<code>right</code>`, `<code>bottom</code>`, and `<code>left</code>` properties are used to specify the element's position.</li><li>Sticky positioned elements \"stick\" to a particular position as the user scrolls.</li><br/>Example:</ul><ul/>"
           },
           {
             "paraid": 15,
@@ -1221,7 +1221,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Elements with a display value of '<code>block</code>' generate a block-level box.</li><li>They take up the full width of their parent container by default and start on a new line.</li><li>Examples of block-level elements include '<code>&lt;div&gt;</code>', '<code>&lt;p&gt;</code>', '<code>&lt;h1&gt;</code>' to '<code>&lt;h6&gt;</code>', and '<code>&lt;ul&gt;</code>'.</li></ul><ul>"
+            "text": "<ul><ul><li>Elements with a display value of `<code>block</code>` generate a block-level box.</li><li>They take up the full width of their parent container by default and start on a new line.</li><li>Examples of block-level elements include `<code>&lt;div&gt;</code>`, `<code>&lt;p&gt;</code>`, `<code>&lt;h1&gt;</code>` to `<code>&lt;h6&gt;</code>`, and `<code>&lt;ul&gt;</code>`.</li></ul><ul>"
           },
           {
             "paraid": 4,
@@ -1229,7 +1229,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>Elements with a display value of '<code>inline</code>' generate an inline-level box.</li><li>They do not start on a new line and flow within the content of block-level elements.</li><li>Examples of inline elements include '<code>&lt;span&gt;</code>', '<code>&lt;a&gt;</code>', '<code>&lt;strong&gt;</code>', and '<code>&lt;img&gt;</code>'.</li></ul></ul>"
+            "text": "<ul><ul><li>Elements with a display value of `<code>inline</code>` generate an inline-level box.</li><li>They do not start on a new line and flow within the content of block-level elements.</li><li>Examples of inline elements include `<code>&lt;span&gt;</code>`, `<code>&lt;a&gt;</code>`, `<code>&lt;strong&gt;</code>`, and `<code>&lt;img&gt;</code>`.</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -1237,7 +1237,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Elements with a display value of '<code>inline-block</code>' generate an inline-level box but behave like a block-level element in terms of allowing width, height, padding, and margins.</li><li>They do not start on a new line and can have a width and height specified.</li><li>Examples of elements commonly set to \"inline-block\" are '<code>&lt;button&gt;</code>', '<code>&lt;input&gt;</code>', and '<code>&lt;select&gt;</code>'.</li></ul></ul>"
+            "text": "<ul><ul><li>Elements with a display value of `<code>inline-block</code>` generate an inline-level box but behave like a block-level element in terms of allowing width, height, padding, and margins.</li><li>They do not start on a new line and can have a width and height specified.</li><li>Examples of elements commonly set to \"inline-block\" are `<code>&lt;button&gt;</code>`, `<code>&lt;input&gt;</code>`, and `<code>&lt;select&gt;</code>`.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -1245,7 +1245,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Elements with a display value of '<code>none</code>' are not displayed on the page.</li><li>They are completely removed from the document flow and take up no space.</li><li>This can be useful for hiding elements dynamically using JavaScript or CSS.</li></ul></ul>"
+            "text": "<ul><ul><li>Elements with a display value of `<code>none</code>` are not displayed on the page.</li><li>They are completely removed from the document flow and take up no space.</li><li>This can be useful for hiding elements dynamically using JavaScript or CSS.</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1253,7 +1253,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ul><ul><li>The '<code>flex</code>' display value enables a flexible box layout model for its direct children.</li><li>It allows you to create flexible and responsive layouts, controlling the alignment, spacing, and order of the child elements.</li><li>This is often used in conjunction with additional flex-related properties such as '<code>flex-direction</code>', '<code>flex-wrap<code>', '<code>justify-content</code>', and '<code>align-items<code>'.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>flex</code>` display value enables a flexible box layout model for its direct children.</li><li>It allows you to create flexible and responsive layouts, controlling the alignment, spacing, and order of the child elements.</li><li>This is often used in conjunction with additional flex-related properties such as `<code>flex-direction</code>`, `<code>flex-wrap<code>', `<code>justify-content</code>`, and `<code>align-items<code>'.</li></ul></ul>"
           },
           {
             "paraid": 12,
@@ -1261,7 +1261,7 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>The '<code>grid</code>' display value enables a grid layout model for its direct children.</li><li>It allows you to create complex grid-based layouts, specifying rows, columns, and their sizes.</li><li>This is often used in conjunction with additional grid-related properties such as '<code>grid-template-rows</code>', '<code>grid-template-columns</code>', '<code>grid-gap</code>', and more.</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>grid</code>` display value enables a grid layout model for its direct children.</li><li>It allows you to create complex grid-based layouts, specifying rows, columns, and their sizes.</li><li>This is often used in conjunction with additional grid-related properties such as `<code>grid-template-rows</code>`, `<code>grid-template-columns</code>`, `<code>grid-gap</code>`, and more.</li></ul></ul>"
           },
           {
             "paraid": 14,
@@ -1283,7 +1283,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>The float property is used to specify that an element should be floated to the left or right of its containing element, allowing text and other elements to wrap around it.</li><li>Floated elements are taken out of the normal flow of the document and are positioned as far to the left or right as possible.</li><li>The float property can have two values: '<code>left</code>' and '<code>right</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>The float property is used to specify that an element should be floated to the left or right of its containing element, allowing text and other elements to wrap around it.</li><li>Floated elements are taken out of the normal flow of the document and are positioned as far to the left or right as possible.</li><li>The float property can have two values: `<code>left</code>` and `<code>right</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 4,
@@ -1312,7 +1312,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>The clear property is used to specify which sides of an element should not be adjacent to floated elements.</li><li>It ensures that the element is moved below any preceding floated elements, maintaining the normal flow of the document.</li><li>The clear property can have four values: '<code>none</code>' (default), '<code>left</code>', '<code>right</code>', and '<code>both</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>The clear property is used to specify which sides of an element should not be adjacent to floated elements.</li><li>It ensures that the element is moved below any preceding floated elements, maintaining the normal flow of the document.</li><li>The clear property can have four values: `<code>none</code>` (default), `<code>left</code>`, `<code>right</code>`, and `<code>both</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 8,
@@ -1359,7 +1359,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>To create a grid layout, you define a grid container by applying the '<code>display: grid;</code>' property to an element</li><li>The grid container serves as the parent element for all the grid items within it.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>To create a grid layout, you define a grid container by applying the `<code>display: grid;</code>` property to an element</li><li>The grid container serves as the parent element for all the grid items within it.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 4,
@@ -1384,7 +1384,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>Grid tracks are the rows and columns that make up the grid.</li><li>You can define the number and size of tracks using properties like '<code>grid-template-rows</code>' and '<code>grid-template-columns</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>Grid tracks are the rows and columns that make up the grid.</li><li>You can define the number and size of tracks using properties like `<code>grid-template-rows</code>` and `<code>grid-template-columns</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 7,
@@ -1409,7 +1409,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Grid items are the individual elements placed within the grid.</li><li>You position grid items within the grid using properties like '<code>grid-row</code>' and '<code>grid-column</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>Grid items are the individual elements placed within the grid.</li><li>You position grid items within the grid using properties like `<code>grid-row</code>` and `<code>grid-column</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 10,
@@ -1459,7 +1459,7 @@
           },
           {
             "paraid": 15,
-            "text": "<ul><ul><li>Grid gap is the space between grid tracks and grid items.</li><li>You can set the gap size using the '<code>grid-row-gap</code>' and '<code>grid-column-gap</code>' properties or the shorthand '<code>grid-gap</code>' property.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>Grid gap is the space between grid tracks and grid items.</li><li>You can set the gap size using the `<code>grid-row-gap</code>` and `<code>grid-column-gap</code>` properties or the shorthand `<code>grid-gap</code>` property.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 16,
@@ -1498,7 +1498,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>To create a flex layout, you define a flex container by applying the '<code>display: flex;</code>' or '<code>display: inline-flex;</code>' property to an element.</li><li>The flex container serves as the parent element for the flex items within it.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>To create a flex layout, you define a flex container by applying the `<code>display: flex;</code>` or `<code>display: inline-flex;</code>` property to an element.</li><li>The flex container serves as the parent element for the flex items within it.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 4,
@@ -1523,7 +1523,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>Flex items are the individual elements placed within the flex container.</li><li>By default, flex items are laid out in a row, and they can wrap to a new line if the container width is insufficient.</li><li>You can control the behavior of flex items using properties such as '<code>flex-grow</code>', '<code>flex-shrink</code>', and '<code>flex-basis</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>Flex items are the individual elements placed within the flex container.</li><li>By default, flex items are laid out in a row, and they can wrap to a new line if the container width is insufficient.</li><li>You can control the behavior of flex items using properties such as `<code>flex-grow</code>`, `<code>flex-shrink</code>`, and `<code>flex-basis</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 7,
@@ -1548,7 +1548,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>The '<code>flex-direction</code>' property controls the direction of the main axis, which determines how flex items are laid out within the flex container.</li><li>It can have values such as '<code>row</code>' (default), '<code>row-reverse</code>', '<code>column</code>', or '<code>column-reverse</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>The `<code>flex-direction</code>` property controls the direction of the main axis, which determines how flex items are laid out within the flex container.</li><li>It can have values such as `<code>row</code>` (default), `<code>row-reverse</code>`, `<code>column</code>`, or `<code>column-reverse</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 10,
@@ -1573,7 +1573,7 @@
           },
           {
             "paraid": 12,
-            "text": "<ul><ul><li>The '<code>justify-content</code>' property determines how flex items are aligned along the main axis of the flex container.</li><li>It can have values like '<code>flex-start</code>' (default), '<code>flex-end</code>', '<code>center</code>', '<code>space-between</code>', '<code>space-around</code>', or '<code>space-evenly</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>The `<code>justify-content</code>` property determines how flex items are aligned along the main axis of the flex container.</li><li>It can have values like `<code>flex-start</code>` (default), `<code>flex-end</code>`, `<code>center</code>`, `<code>space-between</code>`, `<code>space-around</code>`, or `<code>space-evenly</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 13,
@@ -1598,7 +1598,7 @@
           },
           {
             "paraid": 15,
-            "text": "<ul><ul><li>The '<code>align-items</code>' property controls how flex items are aligned along the cross axis (perpendicular to the main axis) of the flex container.</li><li>It can have values like '<code>stretch</code>' (default), '<code>flex-start</code>', '<code>flex-end</code>', '<code>center</code>', or '<code>baseline</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>The `<code>align-items</code>` property controls how flex items are aligned along the cross axis (perpendicular to the main axis) of the flex container.</li><li>It can have values like `<code>stretch</code>` (default), `<code>flex-start</code>`, `<code>flex-end</code>`, `<code>center</code>`, or `<code>baseline</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 16,
@@ -1623,7 +1623,7 @@
           },
           {
             "paraid": 18,
-            "text": "<ul><ul><li>By default, flex items are laid out in a single line. However, the '<code>flex-wrap</code>' property allows flex items to wrap onto multiple lines if needed.</li><li>It can have values like '<code>nowrap</code>' (default), '<code>wrap</code>', or '<code>wrap-reverse</code>'.</li><br/>Example:</ul></ul>"
+            "text": "<ul><ul><li>By default, flex items are laid out in a single line. However, the `<code>flex-wrap</code>` property allows flex items to wrap onto multiple lines if needed.</li><li>It can have values like `<code>nowrap</code>` (default), `<code>wrap</code>`, or `<code>wrap-reverse</code>`.</li><br/>Example:</ul></ul>"
           },
           {
             "paraid": 19,
@@ -1669,7 +1669,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>The '<code>font-family</code>' property sets the font face or typeface for text.</li><li>You can specify multiple font families as fallback options separated by commas.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>font-family</code>` property sets the font face or typeface for text.</li><li>You can specify multiple font families as fallback options separated by commas.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -1694,7 +1694,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>The '<code>font-size</code>' property sets the size of the text.</li><li>You can use absolute units like pixels ('<code>px</code>') or relative units like percentages ('<code>%</code>') or '<code>em</code>'.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>font-size</code>` property sets the size of the text.</li><li>You can use absolute units like pixels (`<code>px</code>`) or relative units like percentages (`<code>%</code>`) or `<code>em</code>`.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 7,
@@ -1719,7 +1719,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>The '<code>font-weight</code>' property sets the boldness of the text.</li><li>It can have values like '<code>normal</code>', '<code>bold</code>', '<code>bolder</code>', '<code>lighter</code>', or numeric values ('<code>100</code>' to '<code>900</code>').</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>font-weight</code>` property sets the boldness of the text.</li><li>It can have values like `<code>normal</code>`, `<code>bold</code>`, `<code>bolder</code>`, `<code>lighter</code>`, or numeric values (`<code>100</code>` to `<code>900</code>`).</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -1744,7 +1744,7 @@
           },
           {
             "paraid": 12,
-            "text": "<ul><ul><li>The '<code>font-style</code>' property sets the style of the text, such as italic or normal.</li><li>It can have values like '<code>normal</code>', '<code>italic</code>', or '<code>oblique</code>'.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>font-style</code>` property sets the style of the text, such as italic or normal.</li><li>It can have values like `<code>normal</code>`, `<code>italic</code>`, or `<code>oblique</code>`.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 13,
@@ -1769,7 +1769,7 @@
           },
           {
             "paraid": 15,
-            "text": "<ul><ul><li>The '<code>text-decoration</code>' property adds decoration to the text, such as underlines or line-through.</li><li>It can have values like '<code>none</code>', '<code>underline</code>', '<code>overline</code>', '<code>line-through</code>', or a combination of them.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>text-decoration</code>` property adds decoration to the text, such as underlines or line-through.</li><li>It can have values like `<code>none</code>`, `<code>underline</code>`, `<code>overline</code>`, `<code>line-through</code>`, or a combination of them.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 16,
@@ -1794,7 +1794,7 @@
           },
           {
             "paraid": 18,
-            "text": "<ul><ul><li>The '<code>text-transform</code>' property changes the case of the text.</li><li>It can have values like '<code>none</code>', '<code>uppercase</code>', '<code>lowercase</code>', or '<code>capitalize</code>'.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>text-transform</code>` property changes the case of the text.</li><li>It can have values like `<code>none</code>`, `<code>uppercase</code>`, `<code>lowercase</code>`, or `<code>capitalize</code>`.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 19,
@@ -1819,7 +1819,7 @@
           },
           {
             "paraid": 21,
-            "text": "<ul><ul><li>The '<code>text-align</code>' property sets the alignment of the text within its container.</li><li>It can have values like '<code>left</code>', '<code>right</code>', '<code>center</code>', or '<code>justify</code>'.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>text-align</code>` property sets the alignment of the text within its container.</li><li>It can have values like `<code>left</code>`, `<code>right</code>`, `<code>center</code>`, or `<code>justify</code>`.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 22,
@@ -1874,7 +1874,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>The '<code>@font-face</code>' rule is used to declare custom web fonts and specify their source and properties.</li><li>You define a font name, font source, and font properties within the '<code>@font-face</code>' rule.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>@font-face</code>` rule is used to declare custom web fonts and specify their source and properties.</li><li>You define a font name, font source, and font properties within the `<code>@font-face</code>` rule.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -1899,7 +1899,7 @@
           },
           {
             "paraid": 10,
-            "text": "<ul><ul><li>Once you have declared the '<code>@font-face</code>' rule, you can use the custom font in your CSS.</li><li>Specify the '<code>font-family</code>' property with the same name you defined in the '<code>@font-face</code>' rule.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Once you have declared the `<code>@font-face</code>` rule, you can use the custom font in your CSS.</li><li>Specify the `<code>font-family</code>` property with the same name you defined in the `<code>@font-face</code>` rule.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -1924,7 +1924,7 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>To optimize font loading and rendering, you can use font-display options to control the behavior of fallback fonts while the web font is loading.</li><li>The '<code>font-display</code>' property allows you to specify values like '<code>auto</code>', '<code>swap</code>', '<code>block</code>', '<code>fallback</code>', or '<code>optional</code>' to define font behavior.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>To optimize font loading and rendering, you can use font-display options to control the behavior of fallback fonts while the web font is loading.</li><li>The `<code>font-display</code>` property allows you to specify values like `<code>auto</code>`, `<code>swap</code>`, `<code>block</code>`, `<code>fallback</code>`, or `<code>optional</code>` to define font behavior.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 14,
@@ -1975,7 +1975,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>Use relative units like percentages ('<code>%</code>'), ems ('<code>em</code>'), or rems ('<code>rem</code>') instead of fixed units like pixels ('<code>px</code>') for font sizes.</li><li>Relative units scale with the parent element or the root font size, allowing for responsive adjustments.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Use relative units like percentages (`<code>%</code>`), ems (`<code>em</code>`), or rems (`<code>rem</code>`) instead of fixed units like pixels (`<code>px</code>`) for font sizes.</li><li>Relative units scale with the parent element or the root font size, allowing for responsive adjustments.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -2025,7 +2025,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Implement fluid typography by using CSS '<code>calc()</code>' function and viewport units ('<code>vw</code>', '<code>vh</code>') to make font sizes responsive to the viewport width or height.</li><li>This approach allows font sizes to scale proportionally as the viewport changes.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Implement fluid typography by using CSS `<code>calc()</code>` function and viewport units (`<code>vw</code>`, `<code>vh</code>`) to make font sizes responsive to the viewport width or height.</li><li>This approach allows font sizes to scale proportionally as the viewport changes.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -2050,7 +2050,7 @@
           },
           {
             "paraid": 12,
-            "text": "<ul><ul><li>Adjust line height ('<code>line-height</code>') and letter spacing ('<code>letter-spacing</code>') to ensure comfortable reading and legibility on different devices.</li><li>Relative or unitless values are commonly used to maintain consistent proportions relative to the font size.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Adjust line height (`<code>line-height</code>`) and letter spacing (`<code>letter-spacing</code>`) to ensure comfortable reading and legibility on different devices.</li><li>Relative or unitless values are commonly used to maintain consistent proportions relative to the font size.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 13,
@@ -2146,7 +2146,7 @@
           },
           {
             "paraid": 4,
-            "text": "<ul><ul>In this case, the color '<code>red</code>' is applied to the text, and the background color '<code>skyblue</code>' is set.</ul></ul>"
+            "text": "<ul><ul>In this case, the color `<code>red</code>` is applied to the text, and the background color `<code>skyblue</code>` is set.</ul></ul>"
           },
           {
             "paraid": 5,
@@ -2175,7 +2175,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul>Here, the text color is set to pure red ('<code>#FF0000</code>), and the background color is set to pure green ('<code>#00FF00</code>').</ul></ul>"
+            "text": "<ul><ul>Here, the text color is set to pure red (`<code>#FF0000</code>`), and the background color is set to pure green (`<code>#00FF00</code>`).</ul></ul>"
           },
           {
             "paraid": 7,
@@ -2183,7 +2183,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>The method uses the '<code>rgb()</code>' function followed by three values representing the intensity of the red, green, and blue color components.</li><li>The values can be specified as integers ranging from '<code>0</code>' to '<code>255</code>' or as percentages ranging from '<code>0%</code>' to '<code>100%</code>'.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>The method uses the `<code>rgb()</code>` function followed by three values representing the intensity of the red, green, and blue color components.</li><li>The values can be specified as integers ranging from `<code>0</code>` to `<code>255</code>` or as percentages ranging from `<code>0%</code>` to `<code>100%</code>`.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -2204,7 +2204,7 @@
           },
           {
             "paraid": 8,
-            "text": "<ul><ul>In this case, the text color is set to pure red ('<code>rgb(255, 0, 0)</code>'), and the background color is set to pure green ('<code>rgb(0, 255, 0)</code>').<ul><ul>"
+            "text": "<ul><ul>In this case, the text color is set to pure red (`<code>rgb(255, 0, 0)</code>`), and the background color is set to pure green (`<code>rgb(0, 255, 0)</code>`).<ul><ul>"
           },
           {
             "paraid": 7,
@@ -2212,7 +2212,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>The method uses the '<code>rgba()</code>' function followed by four values representing the intensity of the red, green, blue color components, and an alpha value representing transparency.</li><li>The alpha value ranges from '<code>0</code>' to '<code>1</code>', where '<code>0</code>' is fully transparent, and '<code>1</code>' is fully opaque.<br/><br/>For example:</li></ol>"
+            "text": "<ul><ul><li>The method uses the `<code>rgba()</code>` function followed by four values representing the intensity of the red, green, blue color components, and an alpha value representing transparency.</li><li>The alpha value ranges from `<code>0</code>` to `<code>1</code>`, where `<code>0</code>` is fully transparent, and `<code>1</code>` is fully opaque.<br/><br/>For example:</li></ol>"
           },
           {
             "paraid": 8,
@@ -2233,7 +2233,7 @@
           },
           {
             "paraid": 8,
-            "text": "<ul><ul>This sets the text color to semi-transparent red with an alpha value of '<code>0.5</code>'.</ul></ul>"
+            "text": "<ul><ul>This sets the text color to semi-transparent red with an alpha value of `<code>0.5</code>`.</ul></ul>"
           },
           {
             "paraid": 7,
@@ -2241,7 +2241,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>The method uses the '<code>hsl()</code> function followed by three values representing the hue, saturation, and lightness.</li><li>The hue is an angle ranging from '<code>0</code>' to '<code>360</code>' degrees, while saturation and lightness are percentages ranging from '<code>0%</code>' to '<code>100%</code>'.</li><li>The HSLA color is similar to HSL but also includes an alpha value for transparency.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>The method uses the `<code>hsl()</code>` function followed by three values representing the hue, saturation, and lightness.</li><li>The hue is an angle ranging from `<code>0</code>` to `<code>360</code>` degrees, while saturation and lightness are percentages ranging from `<code>0%</code>` to `<code>100%</code>`.</li><li>The HSLA color is similar to HSL but also includes an alpha value for transparency.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -2262,7 +2262,7 @@
           },
           {
             "paraid": 8,
-            "text": "<ul><ul>In this case, the text color is set to a hue representing red using HSL, and the background color is set to a hue representing green with '<code>70%</code>' transparency using HSLA.</ul></ul>"
+            "text": "<ul><ul>In this case, the text color is set to a hue representing red using HSL, and the background color is set to a hue representing green with `<code>70%</code>` transparency using HSLA.</ul></ul>"
           },
           {
             "paraid": 1,
@@ -2278,7 +2278,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ul><ul><li>The '<code>color</code>' property sets the color of text content.</li><li>It accepts color values in different formats such as named colors, RGB, HEX, HSL or HSLA.<br><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>color</code>` property sets the color of text content.</li><li>It accepts color values in different formats such as named colors, RGB, HEX, HSL or HSLA.<br><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 12,
@@ -2303,7 +2303,7 @@
           },
           {
             "paraid": 14,
-            "text": "<ul><ul><li>The '<code>background-color</code>' property sets the background color of an element.</li><li>It accepts color values in the same formats as the '<code>color</code>' property.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>background-color</code>` property sets the background color of an element.</li><li>It accepts color values in the same formats as the `<code>color</code>` property.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 15,
@@ -2328,7 +2328,7 @@
           },
           {
             "paraid": 17,
-            "text": "<ul><ul><li>The '<code>border-color</code>' property sets the color of the border around an element.</li><li>It accepts color values in the same formats as the '<code>color</code>' property.<br/><br>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>border-color</code>` property sets the color of the border around an element.</li><li>It accepts color values in the same formats as the `<code>color</code>` property.<br/><br>For example:</li></ul></ul>"
           },
           {
             "paraid": 18,
@@ -2353,7 +2353,7 @@
           },
           {
             "paraid": 17,
-            "text": "<ul><ul><li>The '<code>outline-color</code>' property sets the color of the outline around an element. It is similar to the '<code>border-color</code>' property but applies an outline outside the border.</li><li>It accepts color values in the same formats as the other color properties.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>outline-color</code>` property sets the color of the outline around an element. It is similar to the `<code>border-color</code>` property but applies an outline outside the border.</li><li>It accepts color values in the same formats as the other color properties.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 18,
@@ -2378,7 +2378,7 @@
           },
           {
             "paraid": 17,
-            "text": "<ul><ul><li>The '<code>box-shadow</code>' property allows you to create a shadow effect around an element. It includes the ability to set the color of the shadow.</li><li>The color value can be specified using the same formats as the other color properties.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>box-shadow</code>` property allows you to create a shadow effect around an element. It includes the ability to set the color of the shadow.</li><li>The color value can be specified using the same formats as the other color properties.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 18,
@@ -2421,7 +2421,7 @@
           },
           {
             "paraid": 4,
-            "text": "<ul><ul><li>The '<code>background-image</code>' property sets an image as the background of an element.</li><li>You can specify a path to the image file or use a URL.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>background-image</code>` property sets an image as the background of an element.</li><li>You can specify a path to the image file or use a URL.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 5,
@@ -2446,7 +2446,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>The '<code>background-repeat</code>' property controls how the background image is repeated.</li><li>Values can be '<code>repeat</code>' (default), '<code>repeat-x</code>', '<code>repeat-y</code>', or '<code>no-repeat</code>'.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>background-repeat</code>` property controls how the background image is repeated.</li><li>Values can be `<code>repeat</code>` (default), `<code>repeat-x</code>`, `<code>repeat-y</code>`, or `<code>no-repeat</code>`.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -2471,7 +2471,7 @@
           },
           {
             "paraid": 10,
-            "text": "<ul><ul><li>The '<code>background-size</code>' property defines the size of the background image.</li><li>Values can be '<code>auto</code>' (default), '<code>cover</code>', '<code>contain</code>, or specific dimensions.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>background-size</code>` property defines the size of the background image.</li><li>Values can be `<code>auto</code>` (default), `<code>cover</code>`, `<code>contain</code>`, or specific dimensions.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -2496,7 +2496,7 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>The '<code>background-position</code>' property sets the starting position of the background image.</li><li>Values can be pixels, percentages, or keywords like '<code>top</code>', '<code>bottom</code>', '<code>center</code>', etc.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>background-position</code>` property sets the starting position of the background image.</li><li>Values can be pixels, percentages, or keywords like `<code>top</code>`, `<code>bottom</code>`, `<code>center</code>`, etc.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 14,
@@ -2525,7 +2525,7 @@
           },
           {
             "paraid": 17,
-            "text": "<ul><ul><li>The '<code>background-image</code>' property can be used to create a linear gradient.</li><li>The '<code>linear-gradient()</code>' function defines the gradient direction, color stops, and colors.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>background-image</code>` property can be used to create a linear gradient.</li><li>The `<code>linear-gradient()</code>` function defines the gradient direction, color stops, and colors.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 18,
@@ -2550,7 +2550,7 @@
           },
           {
             "paraid": 20,
-            "text": "<ul><ul><li>The '<code>background-image</code>' property can also be used to create a radial gradient.</li><li>The '<code>radial-gradient()</code>' function defines the shape, size, color stops, and colors.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>background-image</code>` property can also be used to create a radial gradient.</li><li>The `<code>radial-gradient()</code>` function defines the shape, size, color stops, and colors.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -2575,7 +2575,7 @@
           },
           {
             "paraid": 23,
-            "text": "<ul><ul><li>Gradients can be repeated using the '<code>repeating-linear-gradient()</code>' and '<code>repeating-radial-gradient()</code>' functions.</li><li>This allows you to create a pattern with repeating gradients.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Gradients can be repeated using the `<code>repeating-linear-gradient()</code>` and `<code>repeating-radial-gradient()</code>` functions.</li><li>This allows you to create a pattern with repeating gradients.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 24,
@@ -2618,7 +2618,7 @@
           },
           {
             "paraid": 4,
-            "text": "<ul><ul><li>The RGBA color allows you to specify the transparency or alpha value of a color.</li><li>The alpha value ranges from '<code>0</code>' (completely transparent) to '<code>1</code>' (fully opaque).</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The RGBA color allows you to specify the transparency or alpha value of a color.</li><li>The alpha value ranges from `<code>0</code>` (completely transparent) to `<code>1</code>` (fully opaque).</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 5,
@@ -2643,7 +2643,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Similar to RGBA, the HSLA color allows you to specify transparency using the alpha value.</li><li>The alpha value ranges from '<code>0</code>' (completely transparent) to '<code>1</code>' (fully opaque).</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Similar to RGBA, the HSLA color allows you to specify transparency using the alpha value.</li><li>The alpha value ranges from `<code>0</code>` (completely transparent) to `<code>1</code>` (fully opaque).</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -2672,7 +2672,7 @@
           },
           {
             "paraid": 10,
-            "text": "<ul><ul><li>The '<code>opacity</code>' property adjusts the transparency of an element and its contents.</li><li>It takes a value from '<code>0</code>' (completely transparent) to '<code>1</code>' (fully opaque).</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>opacity</code>` property adjusts the transparency of an element and its contents.</li><li>It takes a value from `<code>0</code>` (completely transparent) to `<code>1</code>` (fully opaque).</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -2813,7 +2813,7 @@
           },
           {
             "paraid": 4,
-            "text": "<ul><ul><li>The '<code>transition-property</code>' property specifies which CSS properties should be animated or transitioned.</li><li>You can target specific properties like '<code>color</code>', '<code>background-color</code>', '<code>opacity</code>', '<code>width</code>', etc.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>transition-property</code>` property specifies which CSS properties should be animated or transitioned.</li><li>You can target specific properties like `<code>color</code>`, `<code>background-color</code>`, `<code>opacity</code>`, `<code>width</code>`, etc.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 5,
@@ -2838,7 +2838,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>The '<code>transition-duration</code>' property sets the duration of the transition in seconds (s) or milliseconds (ms).</li><li>It defines how long the transition effect should take to complete.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>transition-duration</code>` property sets the duration of the transition in seconds (s) or milliseconds (ms).</li><li>It defines how long the transition effect should take to complete.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -2863,7 +2863,7 @@
           },
           {
             "paraid": 10,
-            "text": "<ul><ul><li>The '<code>transition-timing-function</code>' property determines the speed curve or pace of the transition.</li><li>It controls the acceleration and deceleration of the transition effect.</li><li>Various timing functions are available, such as '<code>ease</code>' (default), '<code>linear</code>', '<code>ease-in</code>', '<code>ease-out</code>', '<code>ease-in-out</code>', and more.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>transition-timing-function</code>` property determines the speed curve or pace of the transition.</li><li>It controls the acceleration and deceleration of the transition effect.</li><li>Various timing functions are available, such as `<code>ease</code>` (default), `<code>linear</code>`, `<code>ease-in</code>`, `<code>ease-out</code>`, `<code>ease-in-out</code>`, and more.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -2888,7 +2888,7 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>The '<code>transition-delay</code>' property specifies a delay before the transition effect starts.</li><li>It allows you to control when the transition begins after an event, such as a hover or click.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>transition-delay</code>` property specifies a delay before the transition effect starts.</li><li>It allows you to control when the transition begins after an event, such as a hover or click.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 14,
@@ -2917,7 +2917,7 @@
           },
           {
             "paraid": 17,
-            "text": "<ul><ul><li>'<code>ease</code>': Starts slow, accelerates, and then slows down at the end (default).</li><li>'<code>linear</code>': Progresses at a constant speed throughout the transition.</li><li>'<code>ease-in</code>': Starts slow and accelerates.</li><li>'<code>ease-out</code>': Starts fast and decelerates.</li><li>'<code>ease-in-out</code>': Starts slow, accelerates, and then decelerates.</li></ul></ul>"
+            "text": "<ul><ul><li>`<code>ease</code>`: Starts slow, accelerates, and then slows down at the end (default).</li><li>`<code>linear</code>`: Progresses at a constant speed throughout the transition.</li><li>`<code>ease-in</code>`: Starts slow and accelerates.</li><li>`<code>ease-out</code>`: Starts fast and decelerates.</li><li>`<code>ease-in-out</code>`: Starts slow, accelerates, and then decelerates.</li></ul></ul>"
           },
           {
             "paraid": 18,
@@ -2964,7 +2964,7 @@
           },
           {
             "paraid": 4,
-            "text": "<ul><ul><li>The '<code>@keyframes</code>' rule is used to define a set of keyframes or intermediate stages of an animation.</li><li>It specifies the style properties at different points in time during the animation.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>@keyframes</code>` rule is used to define a set of keyframes or intermediate stages of an animation.</li><li>It specifies the style properties at different points in time during the animation.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 5,
@@ -2989,7 +2989,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Keyframes are defined using percentages, representing the progression of the animation.</li><li>You can specify different percentages ('<code>0%</code>', '<code>25%</code>', '<code>50%</code>', etc.) to define various stages of the animation.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>Keyframes are defined using percentages, representing the progression of the animation.</li><li>You can specify different percentages (`<code>0%</code>`, `<code>25%</code>`, `<code>50%</code>`, etc.) to define various stages of the animation.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 5,
@@ -3018,7 +3018,7 @@
           },
           {
             "paraid": 10,
-            "text": "<ul><ul><li>The '<code>animation-name</code>' property specifies the name of the keyframe animation to apply.</li><li>It refers to the '<code>@keyframes</code>' rule that defines the animation.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>animation-name</code>` property specifies the name of the keyframe animation to apply.</li><li>It refers to the `<code>@keyframes</code>` rule that defines the animation.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 11,
@@ -3043,7 +3043,7 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>The '<code>animation-duration</code>' property sets the duration of the animation in seconds (s) or milliseconds (ms).</li><li>It defines how long the animation should take to complete one cycle.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>animation-duration</code>` property sets the duration of the animation in seconds (s) or milliseconds (ms).</li><li>It defines how long the animation should take to complete one cycle.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 14,
@@ -3068,7 +3068,7 @@
           },
           {
             "paraid": 16,
-            "text": "<ul><ul><li>The '<code>animation-timing-function</code>' property determines the speed curve or pace of the animation.</li><li>It controls the acceleration and deceleration of the animation effect.</li><li>Various timing functions are available, such as '<code>ease</code>', '<code>linear</code>', '<code>ease-in</code>', '<code>ease-out</code>', '<code>ease-in-out</code>', and more.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>animation-timing-function</code>` property determines the speed curve or pace of the animation.</li><li>It controls the acceleration and deceleration of the animation effect.</li><li>Various timing functions are available, such as `<code>ease</code>`, `<code>linear</code>`, `<code>ease-in</code>`, `<code>ease-out</code>`, `<code>ease-in-out</code>`, and more.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 17,
@@ -3093,7 +3093,7 @@
           },
           {
             "paraid": 19,
-            "text": "<ul><ul><li>The '<code>animation-delay</code>' property specifies a delay before the animation starts.</li><li>It allows you to control when the animation begins after an event or a certain duration.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>animation-delay</code>` property specifies a delay before the animation starts.</li><li>It allows you to control when the animation begins after an event or a certain duration.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 20,
@@ -3118,7 +3118,7 @@
           },
           {
             "paraid": 22,
-            "text": "<ul><ul><li>The '<code>animation-iteration-count</code> property sets the number of times the animation should repeat.</li><li>You can specify a specific number or use values like '<code>infinite</code>' for an endless animation.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>animation-iteration-count</code>` property sets the number of times the animation should repeat.</li><li>You can specify a specific number or use values like `<code>infinite</code>` for an endless animation.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 23,
@@ -3143,7 +3143,7 @@
           },
           {
             "paraid": 25,
-            "text": "<ul><ul><li>The '<code>animation-fill-mode</code>' property determines the styles applied to the element before and after the animation.</li><li>Values can be '<code>none</code>' (default), '<code>forwards</code>', '<code>backwards</code>', or '<code>both</code>'.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>The `<code>animation-fill-mode</code>` property determines the styles applied to the element before and after the animation.</li><li>Values can be `<code>none</code>` (default), `<code>forwards</code>`, `<code>backwards</code>`, or `<code>both</code>`.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 26,
@@ -3228,7 +3228,7 @@
           },
           {
             "paraid": 6,
-            "text": "<ul><ul><li>CSS animations provide more control and flexibility for complex and interactive animations.</li><li>Define keyframes using '<code>@keyframes</code>' rule and animate elements using the '<code>animation</code>' property.</li><li>Example:</li></ul></ul>"
+            "text": "<ul><ul><li>CSS animations provide more control and flexibility for complex and interactive animations.</li><li>Define keyframes using `<code>@keyframes</code>` rule and animate elements using the `<code>animation</code>` property.</li><li>Example:</li></ul></ul>"
           },
           {
             "paraid": 7,
@@ -3404,7 +3404,7 @@
           },
           {
             "paraid": 4,
-            "text": "<ul><li>'<code>@media</code>': The '<code>@media</code>' rule is used to define a media query.</li><li>'<code>mediaType</code>': The media type specifies the type of media the styles will apply to. Common media types include '<code>all</code>' (default for all devices), '<code>screen</code>' (for computer screens), '<code>print</code>' (for printers), '<code>speech</code>' (for screen readers), and more.</li><li>'<code>and</code>': The '<code>and</code>' keyword is used to combine multiple media features within a media query.<li>'<code>mediaFeature</code>': Media features target specific characteristics of the user's device or viewport, such as '<code>width</code>', '<code>height</code>', '<code>orientation</code>', '<code>device-width</code>', '<code>device-height</code>', '<code>max-width</code>', '<code>min-width</code>', '<code>max-device-width</code>', '<code>min-device-width</code>', and many more.</li><li>value: The value is used to set the range or specific condition for the media feature. For example, '<code>max-width: 768px</code>', '<code>orientation: landscape</code>', or '<code>min-device-width: 320px</code>'.</li></ul>"
+            "text": "<ul><li>`<code>@media</code>`: The `<code>@media</code>` rule is used to define a media query.</li><li>`<code>mediaType</code>`: The media type specifies the type of media the styles will apply to. Common media types include `<code>all</code>` (default for all devices), `<code>screen</code>` (for computer screens), `<code>print</code>` (for printers), `<code>speech</code>` (for screen readers), and more.</li><li>`<code>and</code>`: The `<code>and</code>` keyword is used to combine multiple media features within a media query.<li>`<code>mediaFeature</code>`: Media features target specific characteristics of the user's device or viewport, such as `<code>width</code>`, `<code>height</code>`, `<code>orientation</code>`, `<code>device-width</code>`, `<code>device-height</code>`, `<code>max-width</code>`, `<code>min-width</code>`, `<code>max-device-width</code>`, `<code>min-device-width</code>`, and many more.</li><li>value: The value is used to set the range or specific condition for the media feature. For example, `<code>max-width: 768px</code>`, `<code>orientation: landscape</code>`, or `<code>min-device-width: 320px</code>`.</li></ul>"
           },
           {
             "paraid": 5,
@@ -3634,7 +3634,7 @@
           },
           {
             "paraid": 19,
-            "text": "<ul><ul><li>Optimizing images for different screen sizes is crucial for responsive layouts.</li><li>The '<code>srcset</code>' attribute and the '<code>sizes</code>' attribute in the '<code>&lt;img&gt;</code>' element enable the browser to select and load the appropriate image based on the screen size and resolution.</li><li>Additionally, CSS techniques like '<code>max-width: 100%;</code>' and '<code>height: auto;</code>' can be applied to ensure images scale proportionally.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Optimizing images for different screen sizes is crucial for responsive layouts.</li><li>The `<code>srcset</code>` attribute and the `<code>sizes</code>` attribute in the `<code>&lt;img&gt;</code>` element enable the browser to select and load the appropriate image based on the screen size and resolution.</li><li>Additionally, CSS techniques like `<code>max-width: 100%;</code>` and `<code>height: auto;</code>` can be applied to ensure images scale proportionally.<br/><br/>For example:</li></ul></ul>"
           },
           {
             "paraid": 20,
@@ -3655,7 +3655,7 @@
           },
           {
             "paraid": 21,
-            "text": "<ul><ul>This example uses the '<code>&lt;picture&gt;</code>' element along with the '<code>srcset</code>' attribute to provide different image sources based on the screen size. The browser selects the appropriate image source based on the media queries specified.</ul></ul>"
+            "text": "<ul><ul>This example uses the `<code>&lt;picture&gt;</code>` element along with the `<code>srcset</code>` attribute to provide different image sources based on the screen size. The browser selects the appropriate image source based on the media queries specified.</ul></ul>"
           },
           {
             "paraid": 22,
@@ -3733,7 +3733,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>Be mindful of CSS specificity and avoid overusing or relying solely on inline styles or '<code>!important</code>' declarations.</li><li>Instead, use proper cascading and selector specificity to control the order and priority of styles.</li></ul></ul>"
+            "text": "<ul><ul><li>Be mindful of CSS specificity and avoid overusing or relying solely on inline styles or `<code>!important</code>` declarations.</li><li>Instead, use proper cascading and selector specificity to control the order and priority of styles.</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -3811,7 +3811,7 @@
           },
           {
             "paraid": 3,
-            "text": "<ul><ul><li>BEM is a popular naming convention that promotes a modular and descriptive approach to CSS naming.</li><li>Blocks represent standalone components, Elements are parts of blocks, and Modifiers modify the style or behavior of blocks or elements.</li><li>Example: '<code>.block</code>', '<code>.block__element</code>', '<code>.block--modifier'<code></li></ul></ul>"
+            "text": "<ul><ul><li>BEM is a popular naming convention that promotes a modular and descriptive approach to CSS naming.</li><li>Blocks represent standalone components, Elements are parts of blocks, and Modifiers modify the style or behavior of blocks or elements.</li><li>Example: `<code>.block</code>`, `<code>.block__element</code>`, `<code>.block--modifier`<code></li></ul></ul>"
           },
           {
             "paraid": 4,
@@ -3819,7 +3819,7 @@
           },
           {
             "paraid": 5,
-            "text": "<ul><ul><li>SMACSS is a CSS architecture methodology that provides guidelines for organizing and naming CSS styles.</li><li>It emphasizes separating styles into base, layout, module, state, and theme categories.</li><li>Example: '<code>.base-class</code>', '<code>.layout-class</code>', '<code>.module-class</code>', '<code>.is-state</code>', '<code>.theme-class</code>'</li></ul></ul>"
+            "text": "<ul><ul><li>SMACSS is a CSS architecture methodology that provides guidelines for organizing and naming CSS styles.</li><li>It emphasizes separating styles into base, layout, module, state, and theme categories.</li><li>Example: `<code>.base-class</code>`, `<code>.layout-class</code>`, `<code>.module-class</code>`, `<code>.is-state</code>`, `<code>.theme-class</code>`</li></ul></ul>"
           },
           {
             "paraid": 6,
@@ -3827,7 +3827,7 @@
           },
           {
             "paraid": 7,
-            "text": "<ul><ul><li>OOCSS focuses on separating structure and skin by creating reusable object-oriented CSS classes.</li><li>It encourages the use of utility classes and keeping styles separate from content-specific classes.</li><li>Example: '<code>.button</code>', '<code>.button-primary</code>', '<code>.button-large</code>'</li></ul></ul>"
+            "text": "<ul><ul><li>OOCSS focuses on separating structure and skin by creating reusable object-oriented CSS classes.</li><li>It encourages the use of utility classes and keeping styles separate from content-specific classes.</li><li>Example: `<code>.button</code>`, `<code>.button-primary</code>`, `<code>.button-large</code>`</li></ul></ul>"
           },
           {
             "paraid": 8,
@@ -3835,7 +3835,7 @@
           },
           {
             "paraid": 9,
-            "text": "<ul><ul><li>Atomic CSS is a naming convention that aims to create small, single-purpose utility classes.</li><li>It focuses on composing styles from smaller, atomic classes to build complex components.</li><li>Example: '<code>.m-2</code>' (margin), '<code>.p-4</code>' (padding), '<code>.text-center</code>' (text alignment)</li></ul></ul>"
+            "text": "<ul><ul><li>Atomic CSS is a naming convention that aims to create small, single-purpose utility classes.</li><li>It focuses on composing styles from smaller, atomic classes to build complex components.</li><li>Example: `<code>.m-2</code>` (margin), `<code>.p-4</code>` (padding), `<code>.text-center</code>` (text alignment)</li></ul></ul>"
           },
           {
             "paraid": 10,
@@ -3843,7 +3843,7 @@
           },
           {
             "paraid": 11,
-            "text": "<ul><ul><li>Functional CSS, also known as utility-first CSS, emphasizes using small utility classes for specific styles.</li><li>It focuses on reusable and composable classes that provide specific styling utilities.</li><li>Example: '<code>.text-center</code>', '<code>.bg-blue</code>', '<code>.border-radius</code>'</li></ul></ul>"
+            "text": "<ul><ul><li>Functional CSS, also known as utility-first CSS, emphasizes using small utility classes for specific styles.</li><li>It focuses on reusable and composable classes that provide specific styling utilities.</li><li>Example: `<code>.text-center</code>`, `<code>.bg-blue</code>`, `<code>.border-radius</code>`</li></ul></ul>"
           },
           {
             "paraid": 12,
@@ -3851,7 +3851,7 @@
           },
           {
             "paraid": 13,
-            "text": "<ul><ul><li>Adding a namespace prefix to class names can help avoid conflicts and provide better context within a project.</li><li>Example: '<code>.project-name-block</code>', '<code>.project-name-element</code>'</li></ul></ul>"
+            "text": "<ul><ul><li>Adding a namespace prefix to class names can help avoid conflicts and provide better context within a project.</li><li>Example: `<code>.project-name-block</code>`, `<code>.project-name-element</code>`</li></ul></ul>"
           },
           {
             "paraid": 14,
