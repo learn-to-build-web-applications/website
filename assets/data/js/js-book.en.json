@@ -157,11 +157,11 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "In JavaScript, variables are used to store data values that can be manipulated and accessed throughout your code. JavaScript has several data types that represent different kinds of values. Let's explore variables and data types in JavaScript:"
+            "text": "In JavaScript, variables are used to store data values that can be manipulated and accessed throughout your code. JavaScript has several data types that represent different kinds of values. Let's explore variables and data types in JavaScript."
           },
           {
             "paraid": 2,
-            "text": "<ol><li>Declaring Variables</li></ol>"
+            "text": "<ol><li>Declaring Variables:</li></ol>"
           },
           {
             "paraid": 3,
@@ -211,7 +211,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "In JavaScript, operators and expressions are used to perform operations on values and produce results. They allow you to manipulate variables, compare values, perform arithmetic calculations, and more. Let's explore the various operators and expressions in JavaScript:"
+            "text": "In JavaScript, operators and expressions are used to perform operations on values and produce results. They allow you to manipulate variables, compare values, perform arithmetic calculations, and more. Let's explore the various operators and expressions in JavaScript."
           },
           {
             "paraid": 2,
@@ -297,7 +297,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Control flow and loops in JavaScript provide mechanisms to control the execution flow of your code and perform repetitive tasks. They allow you to make decisions based on conditions and iterate over collections or execute code multiple times. Let's explore the control flow statements and loop structures in JavaScript:"
+            "text": "Control flow and loops in JavaScript provide mechanisms to control the execution flow of your code and perform repetitive tasks. They allow you to make decisions based on conditions and iterate over collections or execute code multiple times. Let's explore the control flow statements and loop structures in JavaScript."
           },
           {
             "paraid": 2,
@@ -502,7 +502,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Functions and scope are crucial concepts in JavaScript that enable you to organize and encapsulate code, reuse functionality, and control variable visibility. Let's explore functions and scope in JavaScript:"
+            "text": "Functions and scope are crucial concepts in JavaScript that enable you to organize and encapsulate code, reuse functionality, and control variable visibility. Let's explore functions and scope in JavaScript."
           },
           {
             "paraid": 2,
@@ -669,7 +669,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Using the array literal syntax which is a pair of square brackets (`<code>[]</code>`).<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Using the array literal syntax which is a pair of square brackets (`<code>[]</code>`).<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -690,7 +690,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Using the Array constructor.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Using the Array constructor.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -715,7 +715,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Accessing Elements: You can access individual elements of an array using square bracket notation and the index of the element.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Accessing Elements: You can access individual elements of an array using square bracket notation and the index of the element.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -736,7 +736,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Modifying Elements: You can modify the value of an element by assigning a new value to a specific index.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Modifying Elements: You can modify the value of an element by assigning a new value to a specific index.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -757,7 +757,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Array Length: The `<code>length</code>` property of an array returns the number of elements in the array. It can also be used to add or remove elements by modifying its value.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Array Length: The `<code>length</code>` property of an array returns the number of elements in the array. It can also be used to add or remove elements by modifying its value.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -778,7 +778,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Adding and Removing Elements: Arrays provide methods like `<code>push()</code>`, `<code>pop()</code>`, `<code>shift()</code>`, and `<code>unshift()</code>` to add or remove elements at the end or beginning of the array.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Adding and Removing Elements: Arrays provide methods like `<code>push()</code>`, `<code>pop()</code>`, `<code>shift()</code>`, and `<code>unshift()</code>` to add or remove elements at the end or beginning of the array.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -799,7 +799,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Iterating Over Elements: You can use loops like `<code>for()</code>` or `<code>forEach()</code>` method to iterate over the elements of an array.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Iterating Over Elements: You can use loops like `<code>for()</code>` or `<code>forEach()</code>` method to iterate over the elements of an array.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -838,7 +838,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Use the object literal syntax which is a set of curly braces (`<code>{}</code>`).<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Use the object literal syntax which is a set of curly braces (`<code>{}</code>`).<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -859,7 +859,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Use the Object constructor.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Use the Object constructor.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -884,7 +884,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Accessing Object Properties: You can access the values of object properties using dot notation (`<code>objectName.propertyName</code>`) or bracket notation (`<code>objectName['propertyName']</code>`).<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Accessing Object Properties: You can access the values of object properties using dot notation (`<code>objectName.propertyName</code>`) or bracket notation (`<code>objectName['propertyName']</code>`).<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -905,7 +905,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Modifying Object Properties: You can modify the value of an object property by assigning a new value to it.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Modifying Object Properties: You can modify the value of an object property by assigning a new value to it.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -926,7 +926,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Adding Object Properties: You can add new properties to an object by assigning values to them.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Adding Object Properties: You can add new properties to an object by assigning values to them.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -947,7 +947,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Removing Object Properties: You can remove properties from an object using the `<code>delete</code>` keyword.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Removing Object Properties: You can remove properties from an object using the `<code>delete</code>` keyword.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -968,7 +968,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Object Methods: Objects can have associated functions called methods. Methods are defined as object properties with function values.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Object Methods: Objects can have associated functions called methods. Methods are defined as object properties with function values.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -989,7 +989,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Object Iteration: You can iterate over an object's properties using a `<code>for...in</code>` loop or the `<code>Object.keys()</code>` method.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Object Iteration: You can iterate over an object's properties using a `<code>for...in</code>` loop or the `<code>Object.keys()</code>` method.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -1010,7 +1010,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Object Constructors: Object constructors are functions used to create multiple objects with similar properties and methods. They serve as a blueprint for creating objects.<br/><br/>For example:</li></ul></ul>"
+            "text": "<ul><ul><li>Object Constructors: Object constructors are functions used to create multiple objects with similar properties and methods. They serve as a blueprint for creating objects.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
@@ -1048,7 +1048,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "The Document Object Model (DOM) is a programming interface for web documents. It represents the structure of an HTML or XML document as a tree-like structure, where each node in the tree represents a part of the document. The DOM provides methods and properties to interact with and manipulate the document's content, structure, and styling. Understanding the DOM is essential for web development using JavaScript. Here are some key points about the DOM:"
+            "text": "The Document Object Model (DOM) is a programming interface for web documents. It represents the structure of an HTML or XML document as a tree-like structure, where each node in the tree represents a part of the document. The DOM provides methods and properties to interact with and manipulate the document's content, structure, and styling. Understanding the DOM is essential for web development using JavaScript. Here are some key points about the DOM."
           },
           {
             "paraid": 2,
@@ -1118,7 +1118,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Accessing and manipulating DOM elements is a fundamental part of web development using JavaScript. The Document Object Model (DOM) provides various methods and properties to interact with elements in the HTML document. Here's an overview of how to access and manipulate DOM elements:"
+            "text": "Accessing and manipulating DOM elements is a fundamental part of web development using JavaScript. The Document Object Model (DOM) provides various methods and properties to interact with elements in the HTML document. Here's an overview of how to access and manipulate DOM elements."
           },
           {
             "paraid": 2,
@@ -1350,7 +1350,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Handling events is a crucial aspect of web development that allows you to respond to user interactions or other occurrences on a web page. JavaScript provides various methods and techniques to handle events effectively. Here's an overview of how to handle events in JavaScript:"
+            "text": "Handling events is a crucial aspect of web development that allows you to respond to user interactions or other occurrences on a web page. JavaScript provides various methods and techniques to handle events effectively. Here's an overview of how to handle events in JavaScript."
           },
           {
             "paraid": 2,
@@ -1488,7 +1488,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Dynamic HTML refers to the ability to create, modify, and update the content and structure of a web page dynamically using JavaScript. It allows you to change elements, update styles, manipulate data, and respond to user interactions in real-time. Here are some key techniques for working with dynamic HTML using JavaScript:"
+            "text": "Dynamic HTML refers to the ability to create, modify, and update the content and structure of a web page dynamically using JavaScript. It allows you to change elements, update styles, manipulate data, and respond to user interactions in real-time. Here are some key techniques for working with dynamic HTML using JavaScript."
           },
           {
             "paraid": 2,
@@ -1554,7 +1554,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Asynchronous programming is a programming paradigm that allows tasks to run independently and concurrently without blocking the execution of the main program. It enables the efficient execution of time-consuming operations such as fetching data from a server, reading and writing files, or waiting for user input. Instead of waiting for these operations to complete before moving on, asynchronous programming allows the program to continue executing other tasks while waiting for the asynchronous operations to finish. Here's an introduction to asynchronous programming:"
+            "text": "Asynchronous programming is a programming paradigm that allows tasks to run independently and concurrently without blocking the execution of the main program. It enables the efficient execution of time-consuming operations such as fetching data from a server, reading and writing files, or waiting for user input. Instead of waiting for these operations to complete before moving on, asynchronous programming allows the program to continue executing other tasks while waiting for the asynchronous operations to finish. Here's an introduction to asynchronous programming."
           },
           {
             "paraid": 2,
@@ -1608,7 +1608,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Callback functions are a fundamental concept in JavaScript that allows you to pass a function as an argument to another function. The primary purpose of using callback functions is to execute code asynchronously or to handle the result of an asynchronous operation. Here's an overview of callback functions:"
+            "text": "Callback functions are a fundamental concept in JavaScript that allows you to pass a function as an argument to another function. The primary purpose of using callback functions is to execute code asynchronously or to handle the result of an asynchronous operation. Here's an overview of callback functions."
           },
           {
             "paraid": 2,
@@ -1721,7 +1721,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Promises are an essential part of JavaScript and provide a more structured and cleaner way to handle asynchronous operations compared to using callback functions. A promise represents the eventual completion or failure of an asynchronous operation and allows you to handle the result or error once it's available. Here's an overview of promises:"
+            "text": "Promises are an essential part of JavaScript and provide a more structured and cleaner way to handle asynchronous operations compared to using callback functions. A promise represents the eventual completion or failure of an asynchronous operation and allows you to handle the result or error once it's available. Here's an overview of promises."
           },
           {
             "paraid": 1,
@@ -1817,7 +1817,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Async/await is a syntax introduced in newer versions of JavaScript (ES2017) that provides a more concise and synchronous-like way to write asynchronous code. It is built on top of promises and offers a simpler and more readable approach to handle asynchronous operations. Here's an overview of async/await:"
+            "text": "Async/await is a syntax introduced in newer versions of JavaScript (ES2017) that provides a more concise and synchronous-like way to write asynchronous code. It is built on top of promises and offers a simpler and more readable approach to handle asynchronous operations. Here's an overview of async/await."
           },
           {
             "paraid": 2,
@@ -1900,7 +1900,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Working with browser APIs allows you to access various features and functionalities provided by the web browser. Here are some commonly used browser APIs and how to work with them:"
+            "text": "Working with browser APIs allows you to access various features and functionalities provided by the web browser. Here are some commonly used browser APIs and how to work with them."
           },
           {
             "paraid": 2,
@@ -1953,7 +1953,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "The Fetch API is a modern JavaScript API that provides a built-in mechanism for making HTTP requests in the browser. It offers a more flexible and powerful alternative to traditional methods like XMLHttpRequest. Here's an overview of how to make HTTP requests using the Fetch API:"
+            "text": "The Fetch API is a modern JavaScript API that provides a built-in mechanism for making HTTP requests in the browser. It offers a more flexible and powerful alternative to traditional methods like XMLHttpRequest. Here's an overview of how to make HTTP requests using the Fetch API."
           },
           {
             "paraid": 2,
@@ -2019,7 +2019,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "AJAX (Asynchronous JavaScript and XML) is a technique used in web development to send and receive data from a server asynchronously without reloading the entire web page. It allows for dynamic and interactive web applications by enabling the retrieval and updating of data in the background. Here's an introduction to AJAX:"
+            "text": "AJAX (Asynchronous JavaScript and XML) is a technique used in web development to send and receive data from a server asynchronously without reloading the entire web page. It allows for dynamic and interactive web applications by enabling the retrieval and updating of data in the background. Here's an introduction to AJAX."
           },
           {
             "paraid": 2,
@@ -2081,7 +2081,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Closures and lexical scope are important concepts in JavaScript that are closely related. Understanding these concepts is crucial for writing effective and efficient JavaScript code. Let's explore closures and lexical scope:"
+            "text": "Closures and lexical scope are important concepts in JavaScript that are closely related. Understanding these concepts is crucial for writing effective and efficient JavaScript code. Let's explore closures and lexical scope."
           },
           {
             "paraid": 1,
@@ -2089,7 +2089,24 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Lexical scope refers to the scope determined by the placement of variables and blocks of code in the source code during the compilation phase.</li><li>In JavaScript, scope is defined by functions and blocks (ES6) such as if statements, for loops, or while loops.</li><li>Variables declared within a function or block are accessible only within that function or block and any nested functions or blocks.</li></ul></ul>"
+            "text": "<ul><ul><li>Lexical scope refers to the scope determined by the placement of variables and blocks of code in the source code during the compilation phase.</li><li>In JavaScript, scope is defined by functions and blocks (ES6) such as if statements, for loops, or while loops.</li><li>Variables declared within a function or block are accessible only within that function or block and any nested functions or blocks.<br/><br/>Example:</li></ul></ul>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_1_1",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2102,6 +2119,23 @@
           {
             "paraid": 1,
             "text": "<ol start=\"3\"><li>Creating a Closure:</li></ol>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_1_2",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2121,7 +2155,24 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Closures are commonly used to create private variables and data encapsulation in JavaScript.</li><li>They are useful for implementing the module pattern, where functions and variables are kept private and only exposed through a public interface.</li><li>Closures are also helpful in scenarios like event handlers, callbacks, and memoization.</li></ul></ul>"
+            "text": "<ul><ul><li>Closures are commonly used to create private variables and data encapsulation in JavaScript.</li><li>They are useful for implementing the module pattern, where functions and variables are kept private and only exposed through a public interface.</li><li>Closures are also helpful in scenarios like event handlers, callbacks, and memoization.<br/><br/>Example:</li></ul></ul>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_1_2",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2143,7 +2194,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Prototypes and inheritance are fundamental concepts in JavaScript that play a crucial role in object-oriented programming. They provide a mechanism for creating and sharing behavior among objects. Let's explore prototypes and inheritance in JavaScript:"
+            "text": "Prototypes and inheritance are fundamental concepts in JavaScript that play a crucial role in object-oriented programming. They provide a mechanism for creating and sharing behavior among objects. Let's explore prototypes and inheritance in JavaScript."
           },
           {
             "paraid": 1,
@@ -2155,15 +2206,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"2\"><li>Prototype Chain:</li></ol>"
-          },
-          {
-            "paraid": 1,
-            "text": "<ul><ul><li>The prototype chain is a mechanism by which objects inherit properties and methods from their prototypes.</li><li>When a property or method is accessed on an object, JavaScript first checks if the object has that property or method. If not, it looks up the prototype chain until it finds the property or reaches the end of the chain (usually the Object prototype).</li><li>This allows for property and method sharing among objects, reducing redundancy and enabling code reuse.</li></ul></ul>"
-          },
-          {
-            "paraid": 1,
-            "text": "<ol start=\"3\"><li>Prototype Object:</li></ol>"
+            "text": "<ol start=\"2\"><li>Prototype Object:</li></ol>"
           },
           {
             "paraid": 1,
@@ -2171,23 +2214,57 @@
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"4\"><li>Inheritance:</li></ol>"
+            "text": "<ol start=\"3\"><li>Prototype Chain and Inheritance:</li></ol>"
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Inheritance is a mechanism that allows objects to inherit properties and methods from their prototypes.</li><li>In JavaScript, inheritance is achieved through the prototype chain.</li><li>When a property or method is accessed on an object, JavaScript looks up the prototype chain to find the corresponding property or method in the prototype.</li></ul></ul>"
+            "text": "<ul><ul><li>The prototype chain is a mechanism by which objects inherit properties and methods from their prototypes.</li><li>When a property or method is accessed on an object, JavaScript first checks if the object has that property or method. If not, it looks up the prototype chain until it finds the property or reaches the end of the chain (usually the Object prototype).</li><li>This allows for property and method sharing among objects, reducing redundancy and enabling code reuse.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"5\"><li>Constructor Functions:</li></ol>"
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_2_1",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Constructor functions are regular functions that are used to create objects.</li><li>When a constructor function is invoked with the `<code>new</code>` keyword, a new object is created, and its `<code>prototype</code>` is set to the function's `<code>prototype</code>` property.</li><li>Properties and methods defined on the constructor function's `<code>prototype</code>` property are inherited by the objects created with that constructor.</li></ul></ul>"
+            "text": "<ol start=\"4\"><li>Constructor Functions:</li></ol>"
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"6\"><li>Prototypal Inheritance vs. Classical Inheritance:</li></ol>"
+            "text": "<ul><ul><li>Constructor functions are regular functions that are used to create objects.</li><li>When a constructor function is invoked with the `<code>new</code>` keyword, a new object is created, and its `<code>prototype</code>` is set to the function's `<code>prototype</code>` property.</li><li>Properties and methods defined on the constructor function's `<code>prototype</code>` property are inherited by the objects created with that constructor.<br/><br/>Example:</li></ul></ul>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_2_2",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
+          },
+          {
+            "paraid": 1,
+            "text": "<ol start=\"5\"><li>Prototypal Inheritance vs. Classical Inheritance:</li></ol>"
           },
           {
             "paraid": 1,
@@ -2195,19 +2272,28 @@
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"7\"><li>`<code>Object.create()</code>` and `<code>Object.setPrototypeOf()</code>`:</li></ol>"
+            "text": "<ol start=\"6\"><li>ES6 Classes:</li></ol>"
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>The `<code>Object.create()</code>` method allows you to create a new object with a specified prototype object.</li><li>The `<code>Object.setPrototypeOf()</code>` method sets the prototype of an object to another object.</li><li>These methods provide more control over object creation and prototype assignment, allowing for more advanced inheritance patterns.</li></ul></ul>"
+            "text": "<ul><ul><li>ES6 introduced the `<code>class syntax</code>`, which provides syntactic sugar for working with prototypes and constructor functions.</li><li>Classes in JavaScript are primarily a syntax simplification and still rely on prototypes under the hood.</li><li>The `<code>class</code>` syntax makes it easier to define constructor functions, prototype methods, and inheritance relationships.<br/><br/>Example:</li></ul></ul>"
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"8\"><li>ES6 Classes:</li></ol>"
-          },
-          {
-            "paraid": 1,
-            "text": "<ul><ul><li>ES6 introduced the `<code>class syntax</code>`, which provides syntactic sugar for working with prototypes and constructor functions.</li><li>Classes in JavaScript are primarily a syntax simplification and still rely on prototypes under the hood.</li><li>The `<code>class</code>` syntax makes it easier to define constructor functions, prototype methods, and inheritance relationships.</li></ul></ul>"
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_2_3",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2221,7 +2307,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Functional programming is a programming paradigm that focuses on building software by composing pure functions and avoiding shared state and mutable data. It emphasizes immutability, higher-order functions, and declarative programming. Here are some key concepts of functional programming:"
+            "text": "Functional programming is a programming paradigm that focuses on building software by composing pure functions and avoiding shared state and mutable data. It emphasizes immutability, higher-order functions, and declarative programming. Here are some key concepts of functional programming."
           },
           {
             "paraid": 1,
@@ -2229,7 +2315,24 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Pure functions are functions that produce the same output for the same input and have no side effects.</li><li>They do not modify external state or variables, ensuring referential transparency.</li><li>Pure functions are deterministic, easier to reason about, and facilitate testing and parallel execution.</li></ul></ul>"
+            "text": "<ul><ul><li>Pure functions are functions that produce the same output for the same input and have no side effects.</li><li>They do not modify external state or variables, ensuring referential transparency.</li><li>Pure functions are deterministic, easier to reason about, and facilitate testing and parallel execution.<br/><br/>Example:</li></ul></ul>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_3_1",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2237,7 +2340,24 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>In functional programming, data is immutable, meaning it cannot be changed after creation.</li><li>Instead of modifying existing data, functional programs create new data structures with updated values.</li><li>Immutable data simplifies code reasoning, eliminates bugs caused by unintended mutations, and facilitates concurrency.</li></ul></ul>"
+            "text": "<ul><ul><li>In functional programming, data is immutable, meaning it cannot be changed after creation.</li><li>Instead of modifying existing data, functional programs create new data structures with updated values.</li><li>Immutable data simplifies code reasoning, eliminates bugs caused by unintended mutations, and facilitates concurrency.<br/><br/>Example:</li></ul></ul>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_3_2",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2245,7 +2365,24 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Higher-order functions are functions that can take other functions as arguments or return functions as results.</li><li>They enable code abstraction and composition, allowing for the creation of more reusable and modular code.</li><li>Examples of higher-order functions include `<code>map</code>`, `<code>filter</code>`, and `<code>reduce</code>` in JavaScript.</li></ul></ul>"
+            "text": "<ul><ul><li>Higher-order functions are functions that can take other functions as arguments or return functions as results.</li><li>They enable code abstraction and composition, allowing for the creation of more reusable and modular code.</li><li>Examples of higher-order functions include `<code>map</code>`, `<code>filter</code>`, and `<code>reduce</code>` in JavaScript.<br/><br/>Example:</li></ul></ul>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_3_3",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2253,7 +2390,24 @@
           },
           {
             "paraid": 1,
-            "text": "<ul><ul><li>Function composition is the process of combining functions to create new functions.</li><li>It allows you to build complex operations by chaining together smaller functions.</li><li>Function composition improves code readability, reusability, and testability.</li></ul></ul>"
+            "text": "<ul><ul><li>Function composition is the process of combining functions to create new functions.</li><li>It allows you to build complex operations by chaining together smaller functions.</li><li>Function composition improves code readability, reusability, and testability.<br/><br/>Example:</li></ul></ul>"
+          },
+          {
+            "paraid": 1,
+            "text": "",
+            "codeConfig": {
+              "codeid": "js_7_3_4",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 1,
@@ -2273,15 +2427,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"7\"><li>Immutable Data Structures:</li></ol>"
-          },
-          {
-            "paraid": 1,
-            "text": "<ul><ul><li>Immutable data structures are data structures that cannot be modified after creation.</li><li>Instead of modifying existing structures, operations on immutable data structures return new modified copies.</li><li>Popular immutable data structures include lists, sets, maps, and trees.</li></ul></ul>"
-          },
-          {
-            "paraid": 1,
-            "text": "<ol start=\"8\"><li>Lazy Evaluation:</li></ol>"
+            "text": "<ol start=\"7\"><li>Lazy Evaluation:</li></ol>"
           },
           {
             "paraid": 1,
@@ -2289,7 +2435,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"9\"><li>Pattern Matching:</li></ol>"
+            "text": "<ol start=\"8\"><li>Pattern Matching:</li></ol>"
           },
           {
             "paraid": 1,
@@ -2297,7 +2443,7 @@
           },
           {
             "paraid": 1,
-            "text": "<ol start=\"10\"><li>Avoiding Shared State and Side Effects:</li></ol>"
+            "text": "<ol start=\"9\"><li>Avoiding Shared State and Side Effects:</li></ol>"
           },
           {
             "paraid": 1,
@@ -2315,7 +2461,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Modules and module loaders are essential concepts in modern JavaScript development that help organize and modularize code. They provide a way to split code into reusable and encapsulated units and manage dependencies between different modules. Let's explore modules and module loaders:"
+            "text": "Modules and module loaders are essential concepts in modern JavaScript development that help organize and modularize code. They provide a way to split code into reusable and encapsulated units and manage dependencies between different modules. Let's explore modules and module loaders."
           },
           {
             "paraid": 1,
@@ -2416,7 +2562,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Debugging is an essential skill in software development, including JavaScript. It involves identifying and resolving issues or bugs in your code. Here are some common debugging techniques and tools that can help you in the process:"
+            "text": "Debugging is an essential skill in software development, including JavaScript. It involves identifying and resolving issues or bugs in your code. Here are some common debugging techniques and tools that can help you in the process."
           },
           {
             "paraid": 2,
@@ -2494,7 +2640,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "JavaScript code can encounter various errors during execution. Here are some common JavaScript errors and how to handle them:"
+            "text": "JavaScript code can encounter various errors during execution. Here are some common JavaScript errors and how to handle them."
           },
           {
             "paraid": 2,
@@ -2546,12 +2692,24 @@
           },
           {
             "paraid": 14,
-            "text": "Example of handling errors using `<code>try-catch</code>`:"
+            "text": "<ul><ul>Example of handling errors using `<code>try-catch</code>`:</ul></ul>"
           },
           {
             "paraid": 15,
             "text": "",
-            "codeid": ""
+            "codeConfig": {
+              "codeid": "js_8_2_1",
+              "exampleid": "",
+              "codeOutput": false,
+              "exampleOutput": false,
+              "codeTitle": "JS",
+              "exampleTitle": "",
+              "codeLangs": "ts",
+              "exampleLangs": "",
+              "codeSource": "",
+              "exampleSource": "",
+              "marginLeft": "5rem"
+            }
           },
           {
             "paraid": 16,
@@ -2572,7 +2730,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Code organization and modularization are crucial for writing maintainable, scalable, and reusable JavaScript applications. They help improve code readability, reduce complexity, and facilitate collaboration among team members. Here are some guidelines for code organization and modularization:"
+            "text": "Code organization and modularization are crucial for writing maintainable, scalable, and reusable JavaScript applications. They help improve code readability, reduce complexity, and facilitate collaboration among team members. Here are some guidelines for code organization and modularization."
           },
           {
             "paraid": 2,
@@ -2650,7 +2808,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "Naming conventions and coding style are important aspects of writing clean, readable, and maintainable JavaScript code. Consistent naming and coding style make it easier for developers to understand and collaborate on a project. While different teams or projects may have their specific conventions, here are some common guidelines:"
+            "text": "Naming conventions and coding style are important aspects of writing clean, readable, and maintainable JavaScript code. Consistent naming and coding style make it easier for developers to understand and collaborate on a project. While different teams or projects may have their specific conventions, here are some common guidelines."
           },
           {
             "paraid": 2,
@@ -2744,7 +2902,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "When it comes to performance optimization in JavaScript, there are several techniques and best practices that can help improve the speed and efficiency of your code. Here are some performance optimization tips:"
+            "text": "When it comes to performance optimization in JavaScript, there are several techniques and best practices that can help improve the speed and efficiency of your code. Here are some performance optimization tips."
           },
           {
             "paraid": 2,
@@ -2854,7 +3012,7 @@
         "paragraphs": [
           {
             "paraid": 1,
-            "text": "When developing JavaScript applications, it's essential to consider security aspects to protect user data, prevent vulnerabilities, and ensure a secure user experience. Here are some important security considerations for JavaScript development:"
+            "text": "When developing JavaScript applications, it's essential to consider security aspects to protect user data, prevent vulnerabilities, and ensure a secure user experience. Here are some important security considerations for JavaScript development."
           },
           {
             "paraid": 2,

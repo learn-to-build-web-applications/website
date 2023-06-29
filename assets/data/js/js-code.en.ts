@@ -393,8 +393,218 @@ export const js_5_4_1 =
   }
 }`;
 
+export const js_7_1_1 =
+`function outerFunction() {
+  let outerVariable = 'I am outside!';
+
+  if (true) {
+    let innerVariable = 'I am inside!';
+    console.log(innerVariable); // Output: I am inside!
+    console.log(outerVariable); // Output: I am outside!
+  }
+
+  console.log(innerVariable); // Error: innerVariable is not defined
+}
+
+outerFunction();`;
+
+export const js_7_1_2 =
+`function outerFunction() {
+  var outerVariable = 'I am in the outer function!';
+
+  function innerFunction() {
+    var innerVariable = 'I am in the inner function!';
+    console.log(innerVariable); // Output: I am in the inner function!
+    console.log(outerVariable); // Output: I am in the outer function!
+  }
+
+  return innerFunction;
+}
+
+var closure = outerFunction();
+closure();`;
+
+export const js_7_1_3 =
+`function createCounter() {
+  var count = 0; // Private variable
+
+  function increment() {
+    count++;
+    console.log('Count:', count);
+  }
+
+  function decrement() {
+    count--;
+    console.log('Count:', count);
+  }
+
+  return {
+    increment: increment, // Public interface
+    decrement: decrement // Public interface
+  };
+}
+
+var counter = createCounter();
+counter.increment(); // Output: Count: 1
+counter.increment(); // Output: Count: 2
+counter.decrement(); // Output: Count: 1`;
+
+export const js_7_2_1 =
+`// Creating a prototype object
+var animalPrototype = {
+  sound: 'Unknown',
+  makeSound: function() {
+    console.log(this.sound);
+  }
+};
+
+// Creating a new object using the prototype
+var dog = Object.create(animalPrototype);
+dog.sound = 'Woof';
+
+// Accessing property and method via prototype chain
+dog.makeSound(); // Output: Woof
+
+// Creating another object using the same prototype
+var cat = Object.create(animalPrototype);
+cat.sound = 'Meow';
+
+cat.makeSound(); // Output: Meow`;
+
+export const js_7_2_2 =
+'// Constructor function \n \
+function Person(name, age) { \n \
+  this.name = name; \n \
+  this.age = age; \n \
+} \n \
+\n \
+// Adding a method to the prototype \n \
+Person.prototype.introduce = function() { \n \
+  console.log(\`Hi, my name is ${this.name}, and I am ${this.age} years old.\`); \n \
+}; \n \
+\n \
+// Creating objects using the constructor function \n \
+var person1 = new Person(\'Alice\', 25); \n \
+var person2 = new Person(\'Bob\', 30); \n \
+\n \
+// Accessing properties and calling the inherited method \n \
+console.log(person1.name); // Output: Alice \n \
+console.log(person2.age); // Output: 30 \n \
+\n \
+person1.introduce(); // Output: Hi, my name is Alice, and I am 25 years old. \n \
+person2.introduce(); // Output: Hi, my name is Bob, and I am 30 years old.';
+
+export const js_7_2_3 =
+'// ES6 class syntax \n \
+class Person { \n \
+  constructor(name, age) { \n \
+    this.name = name; \n \
+    this.age = age; \n \
+  } \n \
+  \n \
+  introduce() { \n \
+    console.log(`Hi, my name is ${this.name}, and I am ${this.age} years old.`); \n \
+  } \n \
+} \n \
+\n \
+// Creating objects using the class \n \
+var person1 = new Person(\'Alice\', 25); \n \
+var person2 = new Person(\'Bob\', 30); \n \
+\n \
+// Accessing properties and calling the method \n \
+console.log(person1.name); // Output: Alice \n \
+console.log(person2.age); // Output: 30 \n \
+\n \
+person1.introduce(); // Output: Hi, my name is Alice, and I am 25 years old. \n \
+person2.introduce(); // Output: Hi, my name is Bob, and I am 30 years old.';
+
+export const js_7_3_1 =
+`// Pure function
+function addNumbers(a, b) {
+  return a + b;
+}
+
+// Calling the pure function
+var result = addNumbers(3, 5);
+console.log(result); // Output: 8`;
+
+export const js_7_3_2 =
+`// Immutable data
+const originalArray = [1, 2, 3, 4, 5];
+
+// Creating a new array with an updated value
+const updatedArray = [...originalArray, 6];
+
+// Output the original and updated arrays
+console.log(originalArray); // Output: [1, 2, 3, 4, 5]
+console.log(updatedArray); // Output: [1, 2, 3, 4, 5, 6]`;
+
+export const js_7_3_3 =
+`// Higher-order function example: map
+function map(array, transform) {
+  var transformedArray = [];
+  
+  for (var i = 0; i < array.length; i++) {
+    transformedArray.push(transform(array[i]));
+  }
+  
+  return transformedArray;
+}
+
+// Example usage of the higher-order function
+var numbers = [1, 2, 3, 4, 5];
+var doubledNumbers = map(numbers, function(num) {
+  return num * 2;
+});
+
+console.log(doubledNumbers); // Output: [2, 4, 6, 8, 10]`;
+
+export const js_7_3_4 =
+`// Example functions for function composition
+function add(a, b) {
+  return a + b;
+}
+
+function multiply(a, b) {
+  return a * b;
+}
+
+function square(x) {
+  return x * x;
+}
+
+// Function composition example
+function compose(...functions) {
+  return function(input) {
+    return functions.reduceRight(function(result, fn) {
+      return fn(result);
+    }, input);
+  };
+}
+
+// Compose the functions
+var composedFunction = compose(square, multiply.bind(null, 3), add.bind(null, 2));
+
+// Apply the composed function to an input
+var result = composedFunction(4);
+console.log(result); // Output: 324`;
+
 // export const js_2_5_7 =
 // ``;
+
+// export const js_2_5_7 =
+// ``;
+
+// export const js_2_5_7 =
+// ``;
+
+export const js_8_2_1 =
+`try {
+  // Code that might throw an error
+} catch (error) {
+  // Handle the error
+  console.error('Error:', error);
+}`;
 
 // export const js_2_5_7 =
 // ``;
